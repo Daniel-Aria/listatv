@@ -24,26 +24,18 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC" group-title="Canada",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="Canada",CBC News Network
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T3oBeiX.png" group-title="Canada",CTV News Channel
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BlFNlHz.png" group-title="Canada",Citytv Toronto
-https://dai2fd1j2e2z7.cloudfront.net/out/v1/1e3c1f2e5c3d4e3b9f3b2e3c1e3c4e3b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="Canada",Global News Toronto
-https://globalnews-ca.akamaized.net/hls/live/2043450/globalnews/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PkBPPcL.png" group-title="Canada",TVO Ontario
-https://tvohls.tvo.org/live/tvohd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ap54LCC.png" group-title="Canada",Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jrGrfof.png" group-title="Canada",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC" group-title="Canada",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1, CBC News Network
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:-1, CBC Toronto
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+#EXTINF:-1, CBC Montreal
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1, CBC Calgary
+https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
+#EXTINF:-1, CBC Halifax
+https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
+#EXTINF:-1, ICI RDI (Noticias en francés)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1, Global News Toronto
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
