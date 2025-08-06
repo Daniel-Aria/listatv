@@ -37,5 +37,6 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://live-media-aka.warnermediacdn.com/cmaf/live/2019054/cnngo/cnn_slate-cenc/master_wv_de.m3u8?playername=top-2.18.0
 
 #EXTINF:-1 tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg?c=16x9&q=w_630,c_fill" group-title="Noticias",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://live-media-aka.warnermediacdn.com/cmaf/live/2028338/cnngo/cnni-cenc/master_wv_de.m3u8?playername=top-2.18.0
+
 
