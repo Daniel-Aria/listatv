@@ -33,22 +33,9 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/ICI_Premi%C3%A8re_Logo.svg" group-title="Canada",ICI RDI (Noticias en francés)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Toronto (CBLT-DT)
-https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNN_NEWS_CENTRAL_LOGO.jpg/800px-CNN_NEWS_CENTRAL_LOGO.jpg" group-title="Noticias",CNN Central
+https://live-media-aka.warnermediacdn.com/cmaf/live/2019054/cnngo/cnn_slate-cenc/master_wv_de.m3u8?playername=top-2.18.0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Newstalk_1010_logo.png" group-title="Canada",Newstalk 1010 CFRB Toronto
-https://playerservices.streamtheworld.com/api/livestream.m3u8?call=CFRBAM
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CBC_Radio_Logo.svg" group-title="Canada",CBC Radio One Toronto
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tor
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/ICI_Premi%C3%A8re_Logo.svg" group-title="Canada",ICI Première Montréal (Radio en francés)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_mtl
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CNN_En_Espa%C3%B1ol_Logo.png" group-title="Canada",CNN en Español
-https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/CNN_International_logo.png" group-title="Canada",CNN International
+#EXTINF:-1 tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg?c=16x9&q=w_630,c_fill" group-title="Noticias",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
