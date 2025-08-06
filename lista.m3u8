@@ -25,17 +25,4 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
-#EXTINF:-1, CBC News Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
-#EXTINF:-1, CBC Toronto
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
-#EXTINF:-1, CBC Montreal
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-#EXTINF:-1, CBC Calgary
-https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
-#EXTINF:-1, CBC Halifax
-https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
-#EXTINF:-1, ICI RDI (Noticias en francés)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1, Global News Toronto
-https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
+
