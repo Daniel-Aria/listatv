@@ -401,3 +401,32 @@ https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 #EXTINF:-1 tvg-id="WildTV.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="Undefined",Wild TV (1080p)
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CBC_Radio_One" tvg-name="CBC Radio One" group-title="Canada - Noticias" radio="true",CBC Radio One
+https://cbcradiolive.akamaized.net/hls/live/2044290/CBCR1_Tor/master.m3u8
+
+#EXTINF:-1 tvg-id="680News" tvg-name="680 News Toronto" group-title="Canada - Noticias" radio="true",680 News Toronto
+https://rogers-hls.leanstream.co/rogers/680news.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CJAD800" tvg-name="CJAD 800 Montreal" group-title="Canada - Noticias" radio="true",CJAD 800 Montreal
+https://rogers-hls.leanstream.co/rogers/cjad.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CKNW" tvg-name="CKNW Vancouver" group-title="Canada - Noticias" radio="true",CKNW Vancouver
+https://rogers-hls.leanstream.co/rogers/cknw.stream/playlist.m3u8
