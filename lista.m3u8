@@ -26,3 +26,25 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
 
+# CBC News Explore (Video)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/CBC_News_Network_Logo.svg/320px-CBC_News_Network_Logo.svg.png" group-title="Canada",CBC News Explore
+https://cbcnewsexplore.akamaized.net/hls/live/2043451/CBCNewsExplore/master.m3u8
+
+# CTV News Live (Video)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_News_Logo.svg/320px-CTV_News_Logo.svg.png" group-title="Canada",CTV News Live
+https://ctvnewslive.akamaized.net/hls/live/2043010/CTVNews/master.m3u8
+
+# CBC Radio One Toronto (Audio)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBC_Radio_Logo.svg/320px-CBC_Radio_Logo.svg.png" group-title="Canada",CBC Radio One Toronto
+https://cbcradiolive.akamaized.net/hls/live/2043014/CBCR1_TOR/master.m3u8
+
+# Newstalk 1010 CFRB (Audio)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Newstalk_1010_logo.png/320px-Newstalk_1010_logo.png" group-title="Canada",Newstalk 1010 Toronto
+https://live.streams.arcpublishing.com/newstalk1010/aac/playlist.m3u8
+
+# ICI Radio-Canada Première Montréal (Audio - Francés)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/ICI_Premi%C3%A8re_Logo.svg/320px-ICI_Premi%C3%A8re_Logo.svg.png" group-title="Canada",ICI Première Montréal
+https://rcavliveaudio.akamaized.net/hls/live/2043016/RCAPremiere_MTL/master.m3u8
+
+
+
