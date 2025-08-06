@@ -419,14 +419,11 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CBC_Radio_One" tvg-name="CBC Radio One" group-title="Canada - Noticias" radio="true",CBC Radio One
-https://cbcradiolive.akamaized.net/hls/live/2044290/CBCR1_Tor/master.m3u8
+#EXTINF:-1 tvg-id="CBC_Radio_Toronto" tvg-name="CBC Radio One Toronto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/CBC_Radio_logo.svg/1200px-CBC_Radio_logo.svg.png" group-title="Canada - Noticias" radio="true",CBC Radio One Toronto
+https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8
 
-#EXTINF:-1 tvg-id="680News" tvg-name="680 News Toronto" group-title="Canada - Noticias" radio="true",680 News Toronto
-https://rogers-hls.leanstream.co/rogers/680news.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CBC_Radio_Montreal" tvg-name="CBC Radio One Montreal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/CBC_Radio_logo.svg/1200px-CBC_Radio_logo.svg.png" group-title="Canada - Noticias" radio="true",CBC Radio One Montreal
+https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
 
-#EXTINF:-1 tvg-id="CJAD800" tvg-name="CJAD 800 Montreal" group-title="Canada - Noticias" radio="true",CJAD 800 Montreal
-https://rogers-hls.leanstream.co/rogers/cjad.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CKNW" tvg-name="CKNW Vancouver" group-title="Canada - Noticias" radio="true",CKNW Vancouver
-https://rogers-hls.leanstream.co/rogers/cknw.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CBC_Radio_Vancouver" tvg-name="CBC Radio One Vancouver" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/CBC_Radio_logo.svg/1200px-CBC_Radio_logo.svg.png" group-title="Canada - Noticias" radio="true",CBC Radio One Vancouver
+https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8
