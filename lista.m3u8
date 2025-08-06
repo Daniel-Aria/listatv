@@ -26,27 +26,22 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC News Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Toronto (CBLT-DT)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Montreal (CBMT-DT)
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Ottawa (CBOT-DT)
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/ICI_Premi%C3%A8re_Logo.svg" group-title="Canada",ICI RDI (Noticias en francés)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/ICI_Premi%C3%A8re_Logo.svg" group-title="Canada",ICI Première Montréal (Radio)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_mtl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Toronto (CBLT-DT)
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Newstalk_1010_logo.png" group-title="Canada",Newstalk 1010 CFRB Toronto
+https://playerservices.streamtheworld.com/api/livestream.m3u8?call=CFRBAM
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CBC_Radio_Logo.svg" group-title="Canada",CBC Radio One Toronto
 http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tor
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Newstalk_1010_logo.png" group-title="Canada",Newstalk 1010 CFRB Toronto
-https://playerservices.streamtheworld.com/api/livestream.m3u8?call=CFRBAM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/ICI_Premi%C3%A8re_Logo.svg" group-title="Canada",ICI Première Montréal (Radio en francés)
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_mtl
 
