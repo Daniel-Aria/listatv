@@ -33,7 +33,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/ICI_Premi%C3%A8re_Logo.svg" group-title="Canada",ICI RDI (Noticias en francés)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTM3U
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CNN_En_Espa%C3%B1ol_Logo.png" group-title="Canada",CNN en Español
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
