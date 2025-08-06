@@ -39,23 +39,17 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Télé-Québec_logo.svg/512px-Télé-Québec_logo.svg.png" group-title="Canada",Télé-Québec
 https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Toronto (CBLT-DT)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada",CBC News Network
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="Canada",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",CityNews Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Télé-Québec_logo.svg/512px-Télé-Québec_logo.svg.png" group-title="Canada",Télé-Québec
+https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
