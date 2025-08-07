@@ -61,7 +61,7 @@ http://nocable.cc:8080/PHn1bv/649364/58546
 #EXTINF:-1 tvg-id="CTVMontreal.ca" tvg-name="CTV Montreal" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Montreal
 http://nocable.cc:8080/PHn1bv/649364/47234
 
-#EXTINF:-1 tvg-id="CNN.ca" tvg-name="CNN Canada" tvg-logo="https://yt3.googleusercontent.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s900-c-k-c0x00ffffff-no-rj" group-title="Canadá",CA: CNN
+#EXTINF:-1 tvg-id="CNN.ca" tvg-name="CNN Canada" tvg-logo="https://yt3.googleusercontent.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CA: CNN
 http://nocable.cc:8080/PHn1bv/649364/57398
 
 #EXTINF:-1 tvg-id="CTVNews.ca" tvg-name="CTV News Channel" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV News Channel
@@ -172,3 +172,4 @@ http://nocable.cc:8080/PHn1bv/649364/1817
 
 #EXTINF:-1 tvg-id="HBO.es" tvg-name="HBO Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Logo.svg" group-title="Mexico",HBO Latino
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8?token=Zalogi
+
