@@ -201,3 +201,77 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 http://nocable.cc:8080/PHn1bv/649364/17870
 
 
+
+
+
+
+
+
+
+
+
+######################################################### GUATEMALA ##################################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Tv HD" tvg-logo="https://static.wixstatic.com/media/7acae1_73e0b4e3e4984e1fa287381b8f2a810f~mv2.png" group-title="Guatemala",Vision Tv HD
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/45
+
+#EXTINF:-1 tvg-id="" tvg-name="Vision Tv SD (GUA)" tvg-logo="https://static.wixstatic.com/media/7acae1_73e0b4e3e4984e1fa287381b8f2a810f~mv2.png" group-title="Guatemala",Vision Tv SD (GUA)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/46
+
+#EXTINF:-1 tvg-id="" tvg-name="Totovision (TOT)" tvg-logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png" group-title="Guatemala",Totovision (TOT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/47
+
+#EXTINF:-1 tvg-id="" tvg-name="Tv Florencia (SAC)" tvg-logo="https://static.wixstatic.com/media/7acae1_4f77437ba53c4b898edfddd58c96faa4~mv2.png" group-title="Guatemala",Tv Florencia (SAC)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/49
+
+#EXTINF:-1 tvg-id="" tvg-name="TDS (SOL)" tvg-logo="https://static.wixstatic.com/media/7acae1_1f0c4b88ed58453e9df4437c9a665329~mv2.png" group-title="Guatemala",TDS (SOL)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/52
+
+#EXTINF:-1 tvg-id="" tvg-name="Barbe Tv (SRO)" tvg-logo="https://static.wixstatic.com/media/7acae1_8dc4cf299fb34214ad9e49492ee42421~mv2.png" group-title="Guatemala",Barbe Tv (SRO)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/53
+
+#EXTINF:-1 tvg-id="" tvg-name="Aurora Media Films (TOT)" tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png" group-title="Guatemala",Aurora Media Films (TOT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/54
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 (SRO)" tvg-logo="https://static.wixstatic.com/media/7acae1_a986824eaf454764a466d8a78dde6b75~mv2.png" group-title="Guatemala",Canal 8 (SRO)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/55
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 100 Tv Chinique (QUI)" tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png" group-title="Guatemala",Canal 100 Tv Chinique (QUI)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/56
+
+#EXTINF:-1 tvg-id="" tvg-name="SAS Tv (SUCH)" tvg-logo="https://static.wixstatic.com/media/7acae1_6724b4d57d0c43e6a84ef0e51227d08d~mv2.png" group-title="Guatemala",SAS Tv (SUCH)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/58
+
+#EXTINF:-1 tvg-id="" tvg-name="Sol Tv (SOL)" tvg-logo="https://static.wixstatic.com/media/7acae1_c0451c6af6e14ed094f814f0ded70fe1~mv2.png" group-title="Guatemala",Sol Tv (SOL)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/60
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26 Cono Sur Tv (JUT)" tvg-logo="https://static.wixstatic.com/media/7acae1_79bb351050ce4760941788c17a1fc501~mv2.png" group-title="Guatemala",Canal 26 Cono Sur Tv (JUT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/61
+
+#EXTINF:-1 tvg-id="" tvg-name="ElRoy Tv (SOL)" tvg-logo="https://static.wixstatic.com/media/7acae1_c2dfc76045fa4c79ba692e7cd0f3e25f~mv2.png" group-title="Guatemala",ElRoy Tv (SOL)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/62
+
+#EXTINF:-1 tvg-id="" tvg-name="Jutiapavision (JUT)" tvg-logo="https://static.wixstatic.com/media/7acae1_a201d2a4054c4c0a852e8aa05ae769ad~mv2.png" group-title="Guatemala",Jutiapavision (JUT)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/64
+
+#EXTINF:-1 tvg-id="" tvg-name="Mas Tv (SNM)" tvg-logo="https://static.wixstatic.com/media/7acae1_0a56fe220b8e4fe3a54a32bf98a9f9ff~mv2.png" group-title="Guatemala",Mas Tv (SNM)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/65
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Ixchiguan" tvg-logo="https://static.wixstatic.com/media/7acae1_a5887b41239944aeabf4b37bdaab45a1~mv2.png" group-title="Guatemala",Canal 9 Ixchiguan
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/71
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21 TCN" tvg-logo="https://static.wixstatic.com/media/7acae1_14f0cac6b5034f55a921ce5cfa22926d~mv2.png" group-title="Guatemala",Canal 21 TCN
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/75
+
+#EXTINF:-1 tvg-id="" tvg-name="Luna Vision (QUE)" tvg-logo="https://static.wixstatic.com/media/7acae1_85ef772bed8a43ef93caf066157c0941~mv2.png" group-title="Guatemala",Luna Vision (QUE)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/84
+
+#EXTINF:-1 tvg-id="" tvg-name="Full Channel (SAC)" tvg-logo="https://static.wixstatic.com/media/7acae1_a7a680258c77424e835ba7ec13293b14~mv2.png" group-title="Guatemala",Full Channel (SAC)
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/85
+
+#EXTINF:-1 tvg-id="" tvg-name="Supercable" tvg-logo="https://static.wixstatic.com/media/7acae1_65d43779fb554a2282027c7d32e4ab33~mv2.png" group-title="Guatemala",Supercable
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/259
+
+#EXTINF:-1 tvg-id="" tvg-name="Nim Tv (SOL)" tvg-logo="" group-title="Guatemala",Nim Tv (SOL)
+http://iptv.streamhispanatv.net:8080
+
