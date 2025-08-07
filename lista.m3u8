@@ -21,6 +21,13 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="El Salvador",Canal 21 Megavisión
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
+
+#CANADA
+
+#EXTINF:-1 tvg-id="CBCWindsor.ca" tvg-name="CBC Windsor" group-title="Canada",CBC Windsor
+http://nocable.cc:8080/live/PHn1bv/649364/86749.ts
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC" group-title="Canada",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
@@ -93,4 +100,5 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Mexico",AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
+
 
