@@ -69,7 +69,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
 
 #EXTINF:-1 tvg-id="CTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Toronto
-https://live-news.ctvnews.ca/hls/live.m3u8
+https://ctv.ctvnews.ca/hls/live.m3u8
 
 #MEXICO
 
@@ -119,6 +119,7 @@ https://live.info7.mx/info7/stream.m3u8
 
 #EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Mexico",Multimedios Monterrey
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
 
 
 
