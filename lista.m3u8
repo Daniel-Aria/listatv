@@ -156,6 +156,20 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="CNN.mx" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CNN_en_Espanol_logo.svg/512px-CNN_en_Espanol_logo.svg.png" group-title="Mexico",MX | CNN
 http://nocable.cc:8080/PHn1bv/649364/57619
 
+#EXTINF:-1 tvg-id="Univision.mx" tvg-name="Univision Este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Univision_logo_2013.svg/512px-Univision_logo_2013.svg.png" group-title="Mexico",Univision
+http://nocable.cc:8080/PHn1bv/649364/46692
+
+#EXTINF:-1 tvg-id="HBO.es" tvg-name="HBO Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Logo.svg" group-title="Mexico",HBO Latino
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8?token=Zalogi
+
+
+
+
+
+
+
+
+
 
 
 
@@ -167,9 +181,9 @@ http://nocable.cc:8080/PHn1bv/649364/57619
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CNN_International_logo.svg" group-title="Estados Unidos",US CNN
 http://nocable.cc:8080/PHn1bv/649364/1817
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Estados Unidos",  TELEMUNDO Florida
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO.es" tvg-name="HBO Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Logo.svg" group-title="Mexico",HBO Latino
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8?token=Zalogi
 
