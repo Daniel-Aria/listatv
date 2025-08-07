@@ -167,6 +167,9 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="CNN.mx" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CNN_en_Espanol_logo.svg/512px-CNN_en_Espanol_logo.svg.png" group-title="Mexico",MX | CNN
 http://nocable.cc:8080/PHn1bv/649364/57619
 
+#EXTINF:-1 tvg-id="TVLobo.mx" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Mexico",TV Lobo
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Discovery.mx" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Discovery_Channel_logo.svg/512px-Discovery_Channel_logo.svg.png" group-title="Mexico",MX | Discovery Channel
 http://nocable.cc:8080/PHn1bv/649364/57625
 
@@ -277,5 +280,6 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/259
 
 #EXTINF:-1 tvg-id="" tvg-name="Nim Tv (SOL)" tvg-logo="" group-title="Guatemala",Nim Tv (SOL)
 http://iptv.streamhispanatv.net:8080
+
 
 
