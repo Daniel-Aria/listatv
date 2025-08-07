@@ -161,17 +161,26 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Mexico",Multimedios Monterrey
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Mexico",AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="AXN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102013/axn.png?itok=tAuqI-nx" group-title="DirecT SD",AXN
+http://xpaneltv.com:8080/DaiSeg/987612345/49431
 
-#EXTINF:-1 tvg-id="CNN.mx" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CNN_en_Espanol_logo.svg/512px-CNN_en_Espanol_logo.svg.png" group-title="Mexico",MX | CNN
-http://nocable.cc:8080/PHn1bv/649364/57619
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL" tvg-logo="http://xpaneltv.com:8080/images/16dc4e6f9dca026bb151ffcc9f6c3ce5.jpg" group-title="DirecT LQ",CNN ESPAÑOL
+http://xpaneltv.com:8080/DaiSeg/987612345/52184
+
+#EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://cdn.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png" group-title="Mexico", SIZART Canal 24 Zacatecas | MX
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TVLobo.mx" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="Mexico",TV Lobo
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.mx" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Discovery_Channel_logo.svg/512px-Discovery_Channel_logo.svg.png" group-title="Mexico",MX | Discovery Channel
 http://nocable.cc:8080/PHn1bv/649364/57625
+
+#EXTINF:-1 tvg-id="de.pelicula.mpx.mx" tvg-name="De Pelicula Plus" tvg-logo="http://xpaneltv.com:8080/images/0b6e66e911be5fcff44b6b3d15f80bca.jpg" group-title="DirecT HD",De Pelicula Plus
+http://xpaneltv.com:8080/DaiSeg/987612345/51209
+
+#EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="Distrito Comedia" tvg-logo="http://xpaneltv.com:8080/images/83638af2c9b6018508790b0acde5e5e0.png" group-title="DirecT HD",Distrito Comedia
+http://xpaneltv.com:8080/DaiSeg/987612345/51210
 
 #EXTINF:-1 tvg-id="Univision.mx" tvg-name="Univision Este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Univision_logo_2013.svg/512px-Univision_logo_2013.svg.png" group-title="Mexico",Univision
 http://nocable.cc:8080/PHn1bv/649364/46692
@@ -280,6 +289,7 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/259
 
 #EXTINF:-1 tvg-id="" tvg-name="Nim Tv (SOL)" tvg-logo="" group-title="Guatemala",Nim Tv (SOL)
 http://iptv.streamhispanatv.net:8080
+
 
 
 
