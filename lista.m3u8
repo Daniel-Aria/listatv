@@ -27,6 +27,31 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="CBCWindsor.ca" tvg-name="CBC Windsor" group-title="Canada",CBC Windsor
 http://nocable.cc:8080/live/PHn1bv/649364/86749.ts
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CBCCalgary.ca" tvg-name="CBC Calgary HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CBC_Calgary_logo.png/200px-CBC_Calgary_logo.png" group-title="Canada",CBC Calgary HD
+http://nocable.cc:8080/PHn1bv/649364/57381
+
+#EXTINF:-1 tvg-id="CBCCharlottetown.ca" tvg-name="CBC Charlottetown HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CBC_Charlottetown_logo.png/200px-CBC_Charlottetown_logo.png" group-title="Canada",CBC Charlottetown HD
+http://nocable.cc:8080/PHn1bv/649364/57382
+
+#EXTINF:-1 tvg-id="CBCEdmonton.ca" tvg-name="CBC Edmonton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/CBC_Edmonton_logo.png/200px-CBC_Edmonton_logo.png" group-title="Canada",CBC Edmonton
+http://nocable.cc:8080/PHn1bv/649364/57384
+
+#EXTINF:-1 tvg-id="CBCHalifax.ca" tvg-name="CBC Halifax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/CBC_Halifax_logo.png/200px-CBC_Halifax_logo.png" group-title="Canada",CBC Halifax HD
+http://nocable.cc:8080/PHn1bv/649364/57385
+
+#EXTINF:-1 tvg-id="CBCMontreal.ca" tvg-name="CBC Montreal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/CBC_Montreal_logo.png/200px-CBC_Montreal_logo.png" group-title="Canada",CBC Montreal HD
+http://nocable.cc:8080/PHn1bv/649364/57387
+
+#EXTINF:-1 tvg-id="CBCOttawa.ca" tvg-name="CBC Ottawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/CBC_Ottawa_logo.png/200px-CBC_Ottawa_logo.png" group-title="Canada",CBC Ottawa
+http://nocable.cc:8080/PHn1bv/649364/57305
+
+#EXTINF:-1 tvg-id="CBCToronto.ca" tvg-name="CBC Toronto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CBC_Toronto_logo.png/200px-CBC_Toronto_logo.png" group-title="Canada",CBC Toronto
+http://nocable.cc:8080/PHn1bv/649364/57260
+
+#EXTINF:-1 tvg-id="CBCVancouver.ca" tvg-name="CBC Vancouver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CBC_Vancouver_logo.png/200px-CBC_Vancouver_logo.png" group-title="Canada",CBC Vancouver
+http://nocable.cc:8080/PHn1bv/649364/57391
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC" group-title="Canada",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -80,9 +105,6 @@ https://ctv.ctvnews.ca/hls/live.m3u8
 
 #MEXICO
 
-
-
-
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Mexico",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
@@ -100,5 +122,6 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Mexico",AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
+
 
 
