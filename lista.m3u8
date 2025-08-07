@@ -24,10 +24,8 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #CANADA
 
-#EXTINF:-1 tvg-id="CBCWindsor.ca" tvg-name="CBC Windsor" group-title="Canada",CBC Windsor
+#EXTINF:-1 tvg-id="CBCWindsor.ca" tvg-name="CBC Windsor" tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Windsor
 http://nocable.cc:8080/live/PHn1bv/649364/86749.ts
-
-#EXTM3U
 
 #EXTINF:-1 tvg-id="CBCCalgary.ca" tvg-name="CBC Calgary HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CBC_Calgary_logo.png/200px-CBC_Calgary_logo.png" group-title="Canada",CBC Calgary HD
 http://nocable.cc:8080/PHn1bv/649364/57381
@@ -47,61 +45,44 @@ http://nocable.cc:8080/PHn1bv/649364/57387
 #EXTINF:-1 tvg-id="CBCOttawa.ca" tvg-name="CBC Ottawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/CBC_Ottawa_logo.png/200px-CBC_Ottawa_logo.png" group-title="Canada",CBC Ottawa
 http://nocable.cc:8080/PHn1bv/649364/57305
 
-#EXTINF:-1 tvg-id="CBCToronto.ca" tvg-name="CBC Toronto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CBC_Toronto_logo.png/200px-CBC_Toronto_logo.png" group-title="Canada",CBC Toronto
-http://nocable.cc:8080/PHn1bv/649364/57260
+#EXTINF:-1 tvg-id="CBCToronto.ca" tvg-name="CBC Toronto (CBLT-DT)" tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Toronto (CBLT-DT)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 
 #EXTINF:-1 tvg-id="CBCVancouver.ca" tvg-name="CBC Vancouver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CBC_Vancouver_logo.png/200px-CBC_Vancouver_logo.png" group-title="Canada",CBC Vancouver
 http://nocable.cc:8080/PHn1bv/649364/57391
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC" group-title="Canada",Al Jazeera English
+#EXTINF:-1 tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada",CBC News Network
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC" group-title="Canada",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Toronto (CBLT-DT)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada",CBC News Network
-https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="Canada",CPAC
+#EXTINF:-1 tvg-name="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="Canada",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",CityNews Toronto
+#EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Télé-Québec_logo.svg/512px-Télé-Québec_logo.svg.png" group-title="Canada",Télé-Québec
+#EXTINF:-1 tvg-name="Télé-Québec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Télé-Québec_logo.svg/512px-Télé-Québec_logo.svg.png" group-title="Canada",Télé-Québec
 https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Toronto (CBLT-DT)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada",CBC News Network
-https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="Canada",CPAC
-https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",CityNews Toronto
-https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Télé-Québec_logo.svg/512px-Télé-Québec_logo.svg.png" group-title="Canada",Télé-Québec
-https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Canada",A&E East
+#EXTINF:-1 tvg-name="A&E East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Canada",A&E East
 https://tvpass.org/live/AEEast/hd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Canada",Paramount Network East
+#EXTINF:-1 tvg-name="Paramount Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Canada",Paramount Network East
 https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Canada",Frasier
+#EXTINF:-1 tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Canada",Frasier
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f90e39183b000769f12b/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="Canada",NBA TV Canada
+#EXTINF:-1 tvg-name="NBA TV Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="Canada",NBA TV Canada
 http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
 
-#EXTINF:-1 tvg-id="CTV.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Toronto
+#EXTINF:-1 tvg-id="CTV.ca" tvg-name="CTV Toronto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Toronto
 https://ctv.ctvnews.ca/hls/live.m3u8
+
+
+
 #MEXICO
 
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Mexico",ADN 40
@@ -121,6 +102,7 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Mexico",AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
+
 
 
 
