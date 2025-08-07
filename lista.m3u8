@@ -22,92 +22,86 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 
+
+
+
+
+
+
+
+
 ##################################################  CANADA  ########################################################
 
-#EXTINF:-1 tvg-id="CTVTwoAtlantic.ca" tvg-name="CTV Two Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/CTV_Two_Logo.svg/320px-CTV_Two_Logo.svg.png" group-title="Canada",CTV Two Atlantic
+
+
+#EXTINF:-1 tvg-id="CTVTwoAtlantic.ca" tvg-name="CTV Two Atlantic" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Two Atlantic
 http://nocable.cc:8080/PHn1bv/649364/79547
 
-#EXTINF:-1 tvg-id="CTVCALGARY.ca" tvg-name="CTV Calgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Calgary
+#EXTINF:-1 tvg-id="CTVCALGARY.ca" tvg-name="CTV Calgary" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Calgary
 http://nocable.cc:8080/PHn1bv/649364/57964
 
-#EXTINF:-1 tvg-id="CTVComedy.ca" tvg-name="CTV Comedy Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/CTV_Comedy_Channel_logo.svg/512px-CTV_Comedy_Channel_logo.svg.png" group-title="Canada",CTV Comedy Channel
+#EXTINF:-1 tvg-id="CTVComedy.ca" tvg-name="CTV Comedy Channel" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Comedy Channel
 http://nocable.cc:8080/PHn1bv/649364/57408
 
-#EXTINF:-1 tvg-id="CTVDrama.ca" tvg-name="CTV Drama Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/CTV_Drama_Channel_logo.svg/512px-CTV_Drama_Channel_logo.svg.png" group-title="Canada",CTV Drama Channel
+#EXTINF:-1 tvg-id="CTVDrama.ca" tvg-name="CTV Drama Channel" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Drama Channel
 http://nocable.cc:8080/PHn1bv/649364/57254
 
-#EXTINF:-1 tvg-id="CTVEdmonton.ca" tvg-name="CTV Edmonton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Edmonton
+#EXTINF:-1 tvg-id="CTVEdmonton.ca" tvg-name="CTV Edmonton" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Edmonton
 http://nocable.cc:8080/PHn1bv/649364/58725
 
-#EXTINF:-1 tvg-id="CTVHalifax.ca" tvg-name="CTV Halifax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Halifax
+#EXTINF:-1 tvg-id="CTVHalifax.ca" tvg-name="CTV Halifax" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Halifax
 http://nocable.cc:8080/PHn1bv/649364/57410
 
-#EXTINF:-1 tvg-id="CTVKitchener.ca" tvg-name="CTV Kitchener" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Kitchener
+#EXTINF:-1 tvg-id="CTVKitchener.ca" tvg-name="CTV Kitchener" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Kitchener
 http://nocable.cc:8080/PHn1bv/649364/58557
 
-#EXTINF:-1 tvg-id="CTV2London.ca" tvg-name="CTV 2 London" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/CTV_Two_Logo.svg/320px-CTV_Two_Logo.svg.png" group-title="Canada",CTV 2 London
+#EXTINF:-1 tvg-id="CTV2London.ca" tvg-name="CTV 2 London" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV 2 London
 http://nocable.cc:8080/PHn1bv/649364/58546
 
-#EXTINF:-1 tvg-id="CTVMontreal.ca" tvg-name="CTV Montreal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Montreal
+#EXTINF:-1 tvg-id="CTVMontreal.ca" tvg-name="CTV Montreal" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Montreal
 http://nocable.cc:8080/PHn1bv/649364/47234
 
-#EXTINF:-1 tvg-id="CTVNews.ca" tvg-name="CTV News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/CTV_News_Channel_logo.svg/512px-CTV_News_Channel_logo.svg.png" group-title="Canada",CTV News Channel
+#EXTINF:-1 tvg-id="CTVNews.ca" tvg-name="CTV News Channel" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV News Channel
 http://nocable.cc:8080/PHn1bv/649364/57350
 
-#EXTINF:-1 tvg-id="CTVOttawa.ca" tvg-name="CTV Ottawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Ottawa
+#EXTINF:-1 tvg-id="CTVOttawa.ca" tvg-name="CTV Ottawa" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Ottawa
 http://nocable.cc:8080/PHn1bv/649364/47237
 
-#EXTINF:-1 tvg-id="CTVRegina.ca" tvg-name="CTV Regina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Regina
+#EXTINF:-1 tvg-id="CTVRegina.ca" tvg-name="CTV Regina" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Regina
 http://nocable.cc:8080/PHn1bv/649364/66381
 
-#EXTINF:-1 tvg-id="CTVSaskatoon.ca" tvg-name="CTV Saskatoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Saskatoon
+#EXTINF:-1 tvg-id="CTVSaskatoon.ca" tvg-name="CTV Saskatoon" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Saskatoon
 http://nocable.cc:8080/PHn1bv/649364/66382
 
-#EXTINF:-1 tvg-id="CTVSciFi.ca" tvg-name="CTV Sci-Fi Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/CTV_Sci-Fi_Channel_logo.svg/512px-CTV_Sci-Fi_Channel_logo.svg.png" group-title="Canada",CTV Sci-Fi Channel
+#EXTINF:-1 tvg-id="CTVSciFi.ca" tvg-name="CTV Sci-Fi Channel" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Sci-Fi Channel
 http://nocable.cc:8080/PHn1bv/649364/57253
 
-#EXTINF:-1 tvg-id="CTVToronto.ca" tvg-name="CTV Toronto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Toronto
+#EXTINF:-1 tvg-id="CTVToronto.ca" tvg-name="CTV Toronto" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Toronto
 http://nocable.cc:8080/PHn1bv/649364/47296
 
-#EXTINF:-1 tvg-id="CTV2Vancouver.ca" tvg-name="CTV 2 Vancouver" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/CTV_Two_Logo.svg/320px-CTV_Two_Logo.svg.png" group-title="Canada",CTV 2 Vancouver
+#EXTINF:-1 tvg-id="CTV2Vancouver.ca" tvg-name="CTV 2 Vancouver" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV 2 Vancouver
 http://nocable.cc:8080/PHn1bv/649364/57316
 
-#EXTINF:-1 tvg-id="CTV2Windsor.ca" tvg-name="CTV 2 Windsor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/CTV_Two_Logo.svg/320px-CTV_Two_Logo.svg.png" group-title="Canada",CTV 2 Windsor
-http://nocable.cc:8080/PHn1bv/649364/77165
-
-#EXTINF:-1 tvg-id="CTVBarrie.ca" tvg-name="CTV Barrie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CTV_logo_2022.svg/512px-CTV_logo_2022.svg.png" group-title="Canada",CTV Barrie
-http://nocable.cc:8080/PHn1bv/649364/57373
 
 
-#EXTINF:-1 tvg-id="CBCWindsor.ca" tvg-name="CBC Windsor" tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Windsor
-http://nocable.cc:8080/live/PHn1bv/649364/86749.ts
 
-#EXTINF:-1 tvg-id="CBCCalgary.ca" tvg-name="CBC Calgary HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CBC_Calgary_logo.png/200px-CBC_Calgary_logo.png" group-title="Canada",CBC Calgary HD
-http://nocable.cc:8080/PHn1bv/649364/57381
+#EXTINF:-1 tvg-id="CBCToronto.ca" tvg-name="CBC Toronto" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC Toronto
+http://nocable.cc:8080/PHn1bv/649364/47235
 
-#EXTINF:-1 tvg-id="CBCCharlottetown.ca" tvg-name="CBC Charlottetown HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CBC_Charlottetown_logo.png/200px-CBC_Charlottetown_logo.png" group-title="Canada",CBC Charlottetown HD
-http://nocable.cc:8080/PHn1bv/649364/57382
+#EXTINF:-1 tvg-id="CBCVancouver.ca" tvg-name="CBC Vancouver" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC Vancouver
+http://nocable.cc:8080/PHn1bv/649364/47236
 
-#EXTINF:-1 tvg-id="CBCEdmonton.ca" tvg-name="CBC Edmonton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/CBC_Edmonton_logo.png/200px-CBC_Edmonton_logo.png" group-title="Canada",CBC Edmonton
-http://nocable.cc:8080/PHn1bv/649364/57384
+#EXTINF:-1 tvg-id="CBCMontreal.ca" tvg-name="CBC Montreal" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC Montreal
+http://nocable.cc:8080/PHn1bv/649364/47238
 
-#EXTINF:-1 tvg-id="CBCHalifax.ca" tvg-name="CBC Halifax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/CBC_Halifax_logo.png/200px-CBC_Halifax_logo.png" group-title="Canada",CBC Halifax HD
-http://nocable.cc:8080/PHn1bv/649364/57385
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CBC News Network" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC News Network
+http://nocable.cc:8080/PHn1bv/649364/57349
 
-#EXTINF:-1 tvg-id="CBCMontreal.ca" tvg-name="CBC Montreal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/CBC_Montreal_logo.png/200px-CBC_Montreal_logo.png" group-title="Canada",CBC Montreal HD
-http://nocable.cc:8080/PHn1bv/649364/57387
+#EXTINF:-1 tvg-id="CBCEdmonton.ca" tvg-name="CBC Edmonton" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC Edmonton
+http://nocable.cc:8080/PHn1bv/649364/47239
 
-#EXTINF:-1 tvg-id="CBCOttawa.ca" tvg-name="CBC Ottawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/CBC_Ottawa_logo.png/200px-CBC_Ottawa_logo.png" group-title="Canada",CBC Ottawa
-http://nocable.cc:8080/PHn1bv/649364/57305
-
-#EXTINF:-1 tvg-id="CBCToronto.ca" tvg-name="CBC Toronto (CBLT-DT)" tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="Canada",CBC Toronto (CBLT-DT)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-
-#EXTINF:-1 tvg-id="CBCVancouver.ca" tvg-name="CBC Vancouver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CBC_Vancouver_logo.png/200px-CBC_Vancouver_logo.png" group-title="Canada",CBC Vancouver
-http://nocable.cc:8080/PHn1bv/649364/57391
-
-#EXTINF:-1 tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Canada",CBC News Network
-https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+#EXTINF:-1 tvg-id="CBCHalifax.ca" tvg-name="CBC Halifax" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC Halifax
+http://nocable.cc:8080/PHn1bv/649364/47240
 
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC" group-title="Canada",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -138,7 +132,7 @@ https://ctv.ctvnews.ca/hls/live.m3u8
 
 
 
-#MEXICO
+          ###############################################################    MEXICO  #######################################################################################
 
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Mexico",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -157,6 +151,7 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Mexico",AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
+
 
 
 
