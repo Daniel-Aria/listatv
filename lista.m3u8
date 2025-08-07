@@ -146,6 +146,9 @@ https://ctv.ctvnews.ca/hls/live.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Mexico",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
+#EXTINF:-1 tvg-id="UMTV.mx" tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Mexico",UMTV
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Mexico",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
@@ -274,4 +277,5 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/259
 
 #EXTINF:-1 tvg-id="" tvg-name="Nim Tv (SOL)" tvg-logo="" group-title="Guatemala",Nim Tv (SOL)
 http://iptv.streamhispanatv.net:8080
+
 
