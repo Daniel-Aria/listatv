@@ -270,6 +270,104 @@ http://iptv.streamhispanatv.net:8080
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+          ##############################################################  HONDURAS  ################################################################ 
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Telesistema SD" tvg-logo="http://xpaneltv.com:8080/images/d895ed90bab5a86173ead3a829e26d10.png" group-title="Honduras",HONDURAS | Telesistema SD
+http://xpaneltv.com:8080/DaiSeg/987612345/290503
+
+#EXTINF:-1 tvg-name="Teleceiba SD" tvg-logo="http://xpaneltv.com:8080/images/30ae6d83ea95d17aadc960f2245f4e0e.png" group-title="Honduras",HONDURAS | Teleceiba SD
+http://xpaneltv.com:8080/DaiSeg/987612345/290504
+
+#EXTINF:-1 tvg-name="Telecadena HD" tvg-logo="http://xpaneltv.com:8080/images/63362161e077388669611ed5056266f2.png" group-title="Honduras",HONDURAS | Telecadena HD
+http://xpaneltv.com:8080/DaiSeg/987612345/290505
+
+#EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="http://xpaneltv.com:8080/images/764c72d7fe869ad616ebbda622a99718.jpg" group-title="Honduras",HONDURAS | CANAL 5 HD
+http://xpaneltv.com:8080/DaiSeg/987612345/290507
+
+#EXTINF:-1 tvg-name="Canal 6 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Canal6HN1983.png/revision/latest?cb=20180201210110" group-title="Honduras",HONDURAS | CANAL 6 HD
+http://xpaneltv.com:8080/DaiSeg/987612345/290508
+
+#EXTINF:-1 tvg-name="Teleprogreso" tvg-logo="http://xpaneltv.com:8080/images/244626b60ad36c52b96fb285cb3beb54.jpg" group-title="Honduras",HONDURAS | TELEPROGRESO
+http://xpaneltv.com:8080/DaiSeg/987612345/290511
+
+#EXTINF:-1 tvg-name="TDTV" tvg-logo="http://xpaneltv.com:8080/images/6ceae3e1589f9fa6396d632e5a546ea1.jpg" group-title="Honduras",HONDURAS | TDTV
+http://xpaneltv.com:8080/DaiSeg/987612345/290515
+
+#EXTINF:-1 tvg-name="Canal 11 HD" tvg-logo="http://xpaneltv.com:8080/images/dbf0923a865d3f0fe353b7e932ebaf54.png" group-title="Honduras",HONDURAS | Canal 11 HD
+http://xpaneltv.com:8080/DaiSeg/987612345/290516
+
+#EXTINF:-1 tvg-name="Canal 5" tvg-logo="http://xpaneltv.com:8080/images/764c72d7fe869ad616ebbda622a99718.jpg" group-title="Honduras",HONDURAS | Canal 5
+http://xpaneltv.com:8080/DaiSeg/987612345/290517
+
+#EXTINF:-1 tvg-name="HCH" tvg-logo="http://xpaneltv.com:8080/images/38b9eb47127ad411c5a1c47fd47ee582.png" group-title="Honduras",HONDURAS | HCH
+http://xpaneltv.com:8080/DaiSeg/987612345/290518
+
+#EXTINF:-1 tvg-name="Suyapa" tvg-logo="http://xpaneltv.com:8080/images/4f07a98e7d2ca6a8e6f3b9c4a41bf88b.jpg" group-title="Honduras",HONDURAS | Suyapa
+http://xpaneltv.com:8080/DaiSeg/987612345/290520
+
+#EXTINF:-1 tvg-name="Telecadena SD" tvg-logo="http://xpaneltv.com:8080/images/63362161e077388669611ed5056266f2.png" group-title="Honduras",HONDURAS | TeleCadena SD
+http://xpaneltv.com:8080/DaiSeg/987612345/290521
+
+#EXTINF:-1 tvg-name="Teleceiba" tvg-logo="http://xpaneltv.com:8080/images/30ae6d83ea95d17aadc960f2245f4e0e.png" group-title="Honduras",HONDURAS | Teleceiba
+http://xpaneltv.com:8080/DaiSeg/987612345/290522
+
+#EXTINF:-1 tvg-name="Telesistema" tvg-logo="http://xpaneltv.com:8080/images/d895ed90bab5a86173ead3a829e26d10.png" group-title="Honduras",HONDURAS | TeleSistema
+http://xpaneltv.com:8080/DaiSeg/987612345/290523
+
+#EXTINF:-1 tvg-name="VTV Honduras" tvg-logo="http://xpaneltv.com:8080/images/876c0aee15d72eb6d8194b1135972569.png" group-title="Honduras",HONDURAS | VTV Honduras
+http://xpaneltv.com:8080/DaiSeg/987612345/290525
+
+#EXTINF:-1 tvg-name="HCH OPC 2" tvg-logo="http://xpaneltv.com:8080/images/38b9eb47127ad411c5a1c47fd47ee582.png" group-title="Honduras",HONDURAS | HCH OPC 2
+http://xpaneltv.com:8080/DaiSeg/987612345/290527
+
+#EXTINF:-1 tvg-name="Campus TV" tvg-logo="http://xpaneltv.com:8080/images/29e665dbd124edcd1aa1791d539aef48.png" group-title="Honduras",HONDURAS | Campus TV
+http://xpaneltv.com:8080/DaiSeg/987612345/290528
+
+#EXTINF:-1 tvg-name="Lenca TV" tvg-logo="https://lh3.googleusercontent.com/Pj0cw_MtiXOVbmPnOYWuxjRg_RdJIDU682YhYxqwUeFtVYX7QSn-lQgxDKBuJYQ9ajm7" group-title="Honduras",HONDURAS | Lenca TV
+http://xpaneltv.com:8080/DaiSeg/987612345/290529
+
+#EXTINF:-1 tvg-name="Ebenezer" tvg-logo="http://xpaneltv.com:8080/images/8c20846d58a94e456fcccdbdb52fd705.png" group-title="Honduras",HONDURAS | EBENEZER
+http://xpaneltv.com:8080/DaiSeg/987612345/290530
+
+#EXTINF:-1 tvg-name="Todo Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TDTV_logo_2022.png/200px-TDTV_logo_2022.png" group-title="Honduras",HONDURAS | TODO DEPORTE
+http://xpaneltv.com:8080/DaiSeg/987612345/290531
+
+#EXTINF:-1 tvg-name="Globo TV" tvg-logo="http://xpaneltv.com:8080/images/443430d13a9530f582f5cf459d9d55b0.png" group-title="Honduras",HONDURAS | Globo TV
+http://xpaneltv.com:8080/DaiSeg/987612345/290534
+
+#EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TVCdeportes2002.png/revision/latest?cb=20210513161944&path-prefix=es" group-title="Honduras",HONDURAS | TVC DEPORTES
+http://xpaneltv.com:8080/DaiSeg/987612345/290535
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ############################################################# ENTRETENIMIENTO ##################################################33
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://xpaneltv.com:8080/images/59e2823940be4917d42435ea44bb695b.png" group-title="Entretenimiento",DISCOVERY CHANNEL 4K
@@ -283,6 +381,7 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311505
 
 #EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
 http://xpaneltv.com:8080/DaiSeg/987612345/49713
+
 
 
 
