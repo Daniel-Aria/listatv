@@ -34,57 +34,32 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CTVTwoAtlantic.ca" tvg-name="CTV Two Atlantic" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Two Atlantic
-http://nocable.cc:8080/PHn1bv/649364/79547
 
-#EXTINF:-1 tvg-id="CTVCALGARY.ca" tvg-name="CTV Calgary" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Calgary
-http://nocable.cc:8080/PHn1bv/649364/57964
 
-#EXTINF:-1 tvg-id="CTVComedy.ca" tvg-name="CTV Comedy Channel" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Comedy Channel
-http://nocable.cc:8080/PHn1bv/649364/57408
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Comedy East HD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Comedy East HD
+http://xpaneltv.com:8080/DaiSeg/987612345/311445
 
-#EXTINF:-1 tvg-id="CTVDrama.ca" tvg-name="CTV Drama Channel" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Drama Channel
-http://nocable.cc:8080/PHn1bv/649364/57254
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV HD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV HD
+http://xpaneltv.com:8080/DaiSeg/987612345/311450
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Drama HD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Drama HD
+http://xpaneltv.com:8080/DaiSeg/987612345/311460
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Kitchener HD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Kitchener HD
+http://xpaneltv.com:8080/DaiSeg/987612345/311478
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Toronto" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Toronto
+http://xpaneltv.com:8080/DaiSeg/987612345/311479
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Western HD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Western HD
+http://xpaneltv.com:8080/DaiSeg/987612345/311480
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Montreal SD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Montreal SD
+http://xpaneltv.com:8080/DaiSeg/987612345/311522
 
 #EXTINF:-1 tvg-id="AnimalPlanet.ca" tvg-name="Animal Planet Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Animal_Planet_2018_logo.svg/512px-Animal_Planet_2018_logo.svg.png" group-title="Canada",CA: Animal Planet
 http://nocable.cc:8080/PHn1bv/649364/57377
 
-
-#EXTINF:-1 tvg-id="CTVEdmonton.ca" tvg-name="CTV Edmonton" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Edmonton
-http://nocable.cc:8080/PHn1bv/649364/58725
-
-#EXTINF:-1 tvg-id="CTVHalifax.ca" tvg-name="CTV Halifax" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Halifax
-http://nocable.cc:8080/PHn1bv/649364/57410
-
-#EXTINF:-1 tvg-id="CTVKitchener.ca" tvg-name="CTV Kitchener" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Kitchener
-http://nocable.cc:8080/PHn1bv/649364/58557
-
-#EXTINF:-1 tvg-id="CTV2London.ca" tvg-name="CTV 2 London" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV 2 London
-http://nocable.cc:8080/PHn1bv/649364/58546
-
-#EXTINF:-1 tvg-id="CTVMontreal.ca" tvg-name="CTV Montreal" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Montreal
-http://nocable.cc:8080/PHn1bv/649364/47234
-
-#EXTINF:-1 tvg-id="CTVNews.ca" tvg-name="CTV News Channel" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV News Channel
-http://nocable.cc:8080/PHn1bv/649364/57350
-
-#EXTINF:-1 tvg-id="CTVOttawa.ca" tvg-name="CTV Ottawa" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Ottawa
-http://nocable.cc:8080/PHn1bv/649364/47237
-
-#EXTINF:-1 tvg-id="CTVRegina.ca" tvg-name="CTV Regina" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Regina
-http://nocable.cc:8080/PHn1bv/649364/66381
-
-#EXTINF:-1 tvg-id="CTVSaskatoon.ca" tvg-name="CTV Saskatoon" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Saskatoon
-http://nocable.cc:8080/PHn1bv/649364/66382
-
-#EXTINF:-1 tvg-id="CTVSciFi.ca" tvg-name="CTV Sci-Fi Channel" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Sci-Fi Channel
-http://nocable.cc:8080/PHn1bv/649364/57253
-
-#EXTINF:-1 tvg-id="CTVToronto.ca" tvg-name="CTV Toronto" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV Toronto
-http://nocable.cc:8080/PHn1bv/649364/47296
-
-#EXTINF:-1 tvg-id="CTV2Vancouver.ca" tvg-name="CTV 2 Vancouver" tvg-logo="https://yt3.googleusercontent.com/LhUyuvH-vqizaA4j-LjWswXapuK7pDDntftgmlfERco2rzGJfbIfx2TrOtgf-R-48oczNZPbVw=s900-c-k-c0x00ffffff-no-rj" group-title="Canada",CTV 2 Vancouver
-http://nocable.cc:8080/PHn1bv/649364/57316
 
 #EXTINF:-1 tvg-id="CBCToronto.ca" tvg-name="CBC Toronto" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC Toronto
 http://nocable.cc:8080/PHn1bv/649364/47235
@@ -309,4 +284,5 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311505
 
 #EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
 http://xpaneltv.com:8080/DaiSeg/987612345/49713
+
 
