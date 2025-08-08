@@ -57,27 +57,26 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311480
 #EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Montreal SD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Montreal SD
 http://xpaneltv.com:8080/DaiSeg/987612345/311522
 
-#EXTINF:-1 tvg-id="AnimalPlanet.ca" tvg-name="Animal Planet Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Animal_Planet_2018_logo.svg/512px-Animal_Planet_2018_logo.svg.png" group-title="Canada",CA: Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.ca" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Animal_Planet_2018_logo.svg/512px-Animal_Planet_2018_logo.svg.png" group-title="Canada",CA: Animal Planet
 http://nocable.cc:8080/PHn1bv/649364/57377
 
 
-#EXTINF:-1 tvg-id="CBCToronto.ca" tvg-name="CBC Toronto" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC Toronto
-http://nocable.cc:8080/PHn1bv/649364/47235
+#EXTM3U
 
-#EXTINF:-1 tvg-id="CBCVancouver.ca" tvg-name="CBC Vancouver" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC Vancouver
-http://nocable.cc:8080/PHn1bv/649364/47236
+#EXTINF:-1 tvg-name="CBC News Network (English)" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC NEWS NETWORK (E)
+http://nocable.cc:8080/PHn1bv/649364/57304
 
-#EXTINF:-1 tvg-id="CBCMontreal.ca" tvg-name="CBC Montreal" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC Montreal
-http://nocable.cc:8080/PHn1bv/649364/47238
+#EXTINF:-1 tvg-name="CBC Calgary HD" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC Calgary HD
+http://nocable.cc:8080/PHn1bv/649364/57381
 
-#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CBC News Network" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC News Network
-http://nocable.cc:8080/PHn1bv/649364/57349
+#EXTINF:-1 tvg-name="CBC Montreal HD (French)" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC Montreal HD (D)
+http://nocable.cc:8080/PHn1bv/649364/57387
 
-#EXTINF:-1 tvg-id="CBCEdmonton.ca" tvg-name="CBC Edmonton" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC Edmonton
-http://nocable.cc:8080/PHn1bv/649364/47239
+#EXTINF:-1 tvg-name="CBC Ottawa" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC OTTAWA
+http://nocable.cc:8080/PHn1bv/649364/57305
 
-#EXTINF:-1 tvg-id="CBCHalifax.ca" tvg-name="CBC Halifax" tvg-logo="https://www.cbc.ca/mediacentre/content/images/CBC_horizontal_logo.jpg" group-title="Canada",CBC Halifax
-http://nocable.cc:8080/PHn1bv/649364/47240
+#EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC TORONTO
+http://nocable.cc:8080/PHn1bv/649364/57306
 
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC" group-title="Canada",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -284,5 +283,6 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311505
 
 #EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
 http://xpaneltv.com:8080/DaiSeg/987612345/49713
+
 
 
