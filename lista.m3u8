@@ -179,6 +179,9 @@ http://xpaneltv.com:8080/DaiSeg/987612345/51209
 #EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="Distrito Comedia" tvg-logo="http://xpaneltv.com:8080/images/83638af2c9b6018508790b0acde5e5e0.png" group-title="DirecT HD",Distrito Comedia
 http://xpaneltv.com:8080/DaiSeg/987612345/51210
 
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="http://xpaneltv.com:8080/images/3b2f81d117de35462176ffad2fd01f33.png" group-title="Mexico",History Channel
+http://xpaneltv.com:8080/DaiSeg/987612345/49454
+
 #EXTINF:-1 tvg-id="Univision.mx" tvg-name="Univision Este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Univision_logo_2013.svg/512px-Univision_logo_2013.svg.png" group-title="Mexico",Univision
 http://nocable.cc:8080/PHn1bv/649364/46692
 
@@ -212,7 +215,8 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Animal_Planet_2018_logo.svg/512px-Animal_Planet_2018_logo.svg.png" group-title="Estados Unidos",US Animal Planet
 http://nocable.cc:8080/PHn1bv/649364/17870
 
-
+#EXTINF:-1 tvg-id="1.colombia.co" tvg-name="HISTORY CHANNEL" tvg-logo="http://xpaneltv.com:8080/images/3b2f81d117de35462176ffad2fd01f33.png" group-title="Estados Unidos",HISTORY CHANNEL
+http://xpaneltv.com:8080/DaiSeg/987612345/59647
 
 
 
@@ -292,4 +296,16 @@ http://iptv.streamhispanatv.net:8080
 
 
 
+############################################################# ENTRETENIMIENTO ##################################################33
 
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://xpaneltv.com:8080/images/59e2823940be4917d42435ea44bb695b.png" group-title="Entretenimiento",DISCOVERY CHANNEL 4K
+http://xpaneltv.com:8080/DaiSeg/987612345/51945
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://xpaneltv.com:8080/images/15bbf98f6d8a52a28dd0691f2e70a863.png" group-title="Entretenimiento",A&E
+http://xpaneltv.com:8080/DaiSeg/987612345/49428
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | A&E HD" tvg-logo="http://xpaneltv.com:8080/images/15bbf98f6d8a52a28dd0691f2e70a863.png" group-title="Entretenimiento",Canada | A&E HD
+http://xpaneltv.com:8080/DaiSeg/987612345/311505
+
+#EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
+http://xpaneltv.com:8080/DaiSeg/987612345/49713
