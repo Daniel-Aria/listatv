@@ -159,9 +159,9 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Mexico",Multimedios Monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8DirecT
 
-#EXTINF:-1 tvg-id="axn.mx" tvg-name="AXN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102013/axn.png?itok=tAuqI-nx" group-title="DirecT SD",AXN
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="AXN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102013/axn.png?itok=tAuqI-nx" group-title="Mexico",AXN
 http://xpaneltv.com:8080/DaiSeg/987612345/49431
 
 #EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://cdn.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png" group-title="Mexico", SIZART Canal 24 Zacatecas | MX
@@ -173,10 +173,10 @@ https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery.mx" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Discovery_Channel_logo.svg/512px-Discovery_Channel_logo.svg.png" group-title="Mexico",MX | Discovery Channel
 http://nocable.cc:8080/PHn1bv/649364/57625
 
-#EXTINF:-1 tvg-id="de.pelicula.mpx.mx" tvg-name="De Pelicula Plus" tvg-logo="http://xpaneltv.com:8080/images/0b6e66e911be5fcff44b6b3d15f80bca.jpg" group-title="DirecT HD",De Pelicula Plus
+#EXTINF:-1 tvg-id="de.pelicula.mpx.mx" tvg-name="De Pelicula Plus" tvg-logo="http://xpaneltv.com:8080/images/0b6e66e911be5fcff44b6b3d15f80bca.jpg" group-title="Mexico",De Pelicula Plus
 http://xpaneltv.com:8080/DaiSeg/987612345/51209
 
-#EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="Distrito Comedia" tvg-logo="http://xpaneltv.com:8080/images/83638af2c9b6018508790b0acde5e5e0.png" group-title="DirecT HD",Distrito Comedia
+#EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="Distrito Comedia" tvg-logo="http://xpaneltv.com:8080/images/83638af2c9b6018508790b0acde5e5e0.png" group-title="Mexico",Distrito Comedia
 http://xpaneltv.com:8080/DaiSeg/987612345/51210
 
 #EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="http://xpaneltv.com:8080/images/3b2f81d117de35462176ffad2fd01f33.png" group-title="Mexico",History Channel
@@ -309,3 +309,4 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311505
 
 #EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
 http://xpaneltv.com:8080/DaiSeg/987612345/49713
+
