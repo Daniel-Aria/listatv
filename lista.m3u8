@@ -3,14 +3,17 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="El Salvador",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="El Salvador",Canal 4
-http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 4" tvg-logo="http://xpaneltv.com:8080/images/2432b0f74cbc7d2a246a52291c1c3f6d.jpg" group-title="El Salvador",EL SALVADOR | CANAL 4
+http://xpaneltv.com:8080/DaiSeg/987612345/322237
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Agape-Canal-8-en-vivo-Online-1.png" group-title="El Salvador",Canal 8
-https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TCS_Canal_6.png" group-title="El Salvador",EL SALVADOR | CANAL 6
+http://xpaneltv.com:8080/DaiSeg/987612345/322238
+
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 10" tvg-logo="http://xpaneltv.com:8080/images/e8ffb091d6989adf2d3b56e7ca32320a.png" group-title="El Salvador",EL SALVADOR | CANAL 10
+http://xpaneltv.com:8080/DaiSeg/987612345/322239
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
@@ -20,6 +23,10 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="El Salvador",Canal 21 Megavisión
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 24 WOW TV" tvg-logo="http://xpaneltv.com:8080/images/1d6ecf7d78f8a5f0d702ccb170348d7f.jpg" group-title="El Salvador",EL SALVADOR | CANAL 24 WOW TV
+http://xpaneltv.com:8080/DaiSeg/987612345/322243
+
 
 
 
@@ -380,6 +387,7 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311505
 
 #EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
 http://xpaneltv.com:8080/DaiSeg/987612345/49713
+
 
 
 
