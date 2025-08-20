@@ -6,10 +6,7 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 #EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 4" tvg-logo="http://xpaneltv.com:8080/images/2432b0f74cbc7d2a246a52291c1c3f6d.jpg" group-title="El Salvador",EL SALVADOR | CANAL 4
 http://xpaneltv.com:8080/DaiSeg/987612345/322237
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador",Canal 6
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TCS_Canal_6.png" group-title="El Salvador",EL SALVADOR | CANAL 6
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 6" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="El Salvador",EL SALVADOR | CANAL 6
 http://xpaneltv.com:8080/DaiSeg/987612345/322238
 
 #EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 10" tvg-logo="http://xpaneltv.com:8080/images/e8ffb091d6989adf2d3b56e7ca32320a.png" group-title="El Salvador",EL SALVADOR | CANAL 10
@@ -387,6 +384,7 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311505
 
 #EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
 http://xpaneltv.com:8080/DaiSeg/987612345/49713
+
 
 
 
