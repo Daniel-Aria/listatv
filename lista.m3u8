@@ -64,7 +64,7 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311522
 #EXTINF:-1 tvg-id="AnimalPlanet.ca" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Animal_Planet_2018_logo.svg/512px-Animal_Planet_2018_logo.svg.png" group-title="Canada",CA: CTV
 http://nocable.cc:8080/PHn1bv/649364/57377
 
-#EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="https://play.google.com/store/apps/details?id=ca.bellmedia.cp24" group-title="Canada",Canada | CP24
+#EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="Canada",Canada | CP24
 http://nocable.cc:8080/PHn1bv/649364/47218
 
 #EXTINF:-1 tvg-name="CBC News Network (English)" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC NEWS NETWORK (E)
@@ -385,6 +385,7 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311505
 
 #EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
 http://xpaneltv.com:8080/DaiSeg/987612345/49713
+
 
 
 
