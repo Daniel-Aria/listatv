@@ -1,4 +1,4 @@
-4#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="El Salvador",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
@@ -40,29 +40,7 @@ http://xpaneltv.com:8080/DaiSeg/987612345/322243
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Comedy East HD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Comedy East HD
-http://xpaneltv.com:8080/DaiSeg/987612345/311445
 
-#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV HD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV HD
-http://xpaneltv.com:8080/DaiSeg/987612345/311450
-
-#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Drama HD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Drama HD
-http://xpaneltv.com:8080/DaiSeg/987612345/311460
-
-#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Kitchener HD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Kitchener HD
-http://xpaneltv.com:8080/DaiSeg/987612345/311478
-
-#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Toronto" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Toronto
-http://xpaneltv.com:8080/DaiSeg/987612345/311479
-
-#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Western HD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Western HD
-http://xpaneltv.com:8080/DaiSeg/987612345/311480
-
-#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Montreal SD" tvg-logo="http://xpaneltv.com:8080/images/3b0e70ecbfeb142eec509209dd685268.PNG" group-title="Canada",Canada | CTV Montreal SD
-http://xpaneltv.com:8080/DaiSeg/987612345/311522
-
-#EXTINF:-1 tvg-id="AnimalPlanet.ca" tvg-name="CTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Animal_Planet_2018_logo.svg/512px-Animal_Planet_2018_logo.svg.png" group-title="Canada",CA: CTV
-http://nocable.cc:8080/PHn1bv/649364/57377
 
 #EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="Canada",Canada | CP24
 http://nocable.cc:8080/PHn1bv/649364/57257
@@ -285,7 +263,7 @@ http://iptv.streamhispanatv.net:8080
  ##############################################################  HONDURAS  ################################################################ 
 
 
-#EXTM3U
+
 
 #EXTINF:-1 tvg-name="Telesistema SD" tvg-logo="http://xpaneltv.com:8080/images/d895ed90bab5a86173ead3a829e26d10.png" group-title="Honduras",HONDURAS | Telesistema SD
 http://xpaneltv.com:8080/DaiSeg/987612345/290503
@@ -812,4 +790,5 @@ https://stitcher.pluto.tv/stitch/hls/channel/6511a5d8d1f20c000864b951/master.m3u
 
 #EXTINF:-1 tvg-id="6181404ef48321000797bc41" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="Infantil" tvg-chno="919", iCarly
 https://stitcher.pluto.tv/stitch/hls/channel/6181404ef48321000797bc41/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+
 
