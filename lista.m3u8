@@ -32,7 +32,7 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 ##################################################  CANADA  ########################################################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | CTV TORONTO" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhx2Dvcf94GpsgCJJpX6VcnqBX9b_Vxnjy-tBgsLN1iGBPuk1CyIpRqc6kDeYzu8i3EwN6bjiRv3W4N81rEX-6pO.png" group-title="Canada",CA | CTV TORONTO
+#EXTINF:-1 tvg-id="" tvg-name="CANADA | CTV TORONTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/2560px-CTV_logo_2018.svg.png" group-title="Canada",CA | CTV TORONTO
 http://plixi.live:80/mariodiaz/mac12345/7600
 
 
@@ -328,13 +328,6 @@ http://xpaneltv.com:8080/DaiSeg/987612345/290535
 
 
 
-
-
-
-
-
-
-         
 
 
 
