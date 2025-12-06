@@ -6,7 +6,7 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 #EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" group-title="El Salvador",EL SALVADOR | CANAL 4
 http://plixi.live:80/mariodiaz/mac12345/8083
 
-#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/640px-Canal_6_TCS.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 6
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/640px-Canal_6_TCS.png" group-title="El Salvador",EL SALVADOR | CANAL 6
 http://plixi.live:80/mariodiaz/mac12345/8084
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
@@ -782,6 +782,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/6511a5d8d1f20c000864b951/master.m3u
 
 #EXTINF:-1 tvg-id="6181404ef48321000797bc41" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="Infantil" tvg-chno="919", iCarly
 https://stitcher.pluto.tv/stitch/hls/channel/6181404ef48321000797bc41/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+
 
 
 
