@@ -6,7 +6,7 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeUAiK88vDwxLAQg8oe7ZJBWnudrGPY2CGA&s" group-title="El Salvador",EL SALVADOR | CANAL 4
 http://plixi.live:80/mariodiaz/mac12345/8083
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="El Salvador",EL SALVADOR | CANAL 6
+#EXTINF:-1 tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122120/Canal-6-1080x1080-1.jpg" group-title="El Salvador",EL SALVADOR | CANAL 6
 http://plixi.live:80/mariodiaz/mac12345/8084
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
@@ -347,6 +347,7 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311505
 
 #EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
 http://xpaneltv.com:8080/DaiSeg/987612345/49713
+
 
 
 
