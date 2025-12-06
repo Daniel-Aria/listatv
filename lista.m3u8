@@ -3,9 +3,11 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="El Salvador",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" group-title="El Salvador",EL SALVADOR | CANAL 4
+http://plixi.live:80/mariodiaz/mac12345/8083
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/640px-Canal_6_TCS.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 6
+http://plixi.live:80/mariodiaz/mac12345/8084
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
@@ -30,13 +32,10 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 ##################################################  CANADA  ########################################################
 
 
+#EXTINF:-1 tvg-id="" tvg-name="CANADA | CTV TORONTO" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhx2Dvcf94GpsgCJJpX6VcnqBX9b_Vxnjy-tBgsLN1iGBPuk1CyIpRqc6kDeYzu8i3EwN6bjiRv3W4N81rEX-6pO.png" group-title="Canada",CA | CTV TORONTO
+http://plixi.live:80/mariodiaz/mac12345/7600
 
-#EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="Canada",Canada | CTV
-http://live.lordstreams.co:8080/NehostingBJ/6ddab55f2d/3271
 
-
-#EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="Canada",Canada | CP24
-http://nocable.cc:8080/PHn1bv/649364/57257
 
 #EXTINF:-1 tvg-name="CBC News Network (English)" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC NEWS NETWORK (E)
 http://nocable.cc:8080/PHn1bv/649364/57304
@@ -783,6 +782,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/6511a5d8d1f20c000864b951/master.m3u
 
 #EXTINF:-1 tvg-id="6181404ef48321000797bc41" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="Infantil" tvg-chno="919", iCarly
 https://stitcher.pluto.tv/stitch/hls/channel/6181404ef48321000797bc41/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+
 
 
 
