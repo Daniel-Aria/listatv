@@ -6,16 +6,16 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeUAiK88vDwxLAQg8oe7ZJBWnudrGPY2CGA&s" group-title="El Salvador",EL SALVADOR | CANAL 4
 http://plixi.live:80/mariodiaz/mac12345/8083
 
-#EXTINF:-1 tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122120/Canal-6-1080x1080-1.jpg" group-title="El Salvador",EL SALVADOR | CANAL 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="El Salvador",EL SALVADOR | CANAL 6
 http://plixi.live:80/mariodiaz/mac12345/8084
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Canal-19-El-Salvador-en-vivo-Online.png" group-title="El Salvador",Canal 19 Megavisión
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Canal_19_El_Salvador.png/revision/latest?cb=20210621012348&path-prefix=es" group-title="El Salvador",Canal 19 Megavisión
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="El Salvador",Canal 21 Megavisión
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fCADRn91MtE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ-9FME22KNP433SNJTd8p1dmr2Q" group-title="El Salvador",Canal 21 Megavisión
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 
@@ -347,6 +347,7 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311505
 
 #EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
 http://xpaneltv.com:8080/DaiSeg/987612345/49713
+
 
 
 
