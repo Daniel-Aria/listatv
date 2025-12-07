@@ -32,47 +32,16 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 ##################################################  CANADA  ########################################################
 
 
-#EXTINF:-1  tvg-logo="https://i0.wp.com/bayview-news.com/wp-content/uploads/2016/09/CTV_News_Toronto2.jpg?fit=1000%2C1000&ssl=1" group-title="Canada",CA | CTV TORONTO
+#EXTINF:-1 tvg-name="ctv toronto" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsK4uMAjg0Tqo1X4wx-HTZMTo7gWoWwiwD5g&s" group-title="Canada",CA | CTV TORONTO
 http://plixi.live:80/mariodiaz/mac12345/7600
-
-#EXTINF:-1 tvg-name="CBC News Network (English)" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC NEWS NETWORK (E)
-http://nocable.cc:8080/PHn1bv/649364/57304
-
-#EXTINF:-1 tvg-name="CBC Calgary HD" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC Calgary HD
-http://nocable.cc:8080/PHn1bv/649364/57381
-
-#EXTINF:-1 tvg-name="CBC Montreal HD (French)" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC Montreal HD (D)
-http://nocable.cc:8080/PHn1bv/649364/57387
-
-#EXTINF:-1 tvg-name="CBC Ottawa" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC OTTAWA
-http://nocable.cc:8080/PHn1bv/649364/57305
-
-#EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg?im=" group-title="Canada",CA CBC TORONTO
-http://nocable.cc:8080/PHn1bv/649364/57306
 
 #EXTINF:-1 tvg-name="Al Jazeera English 2025" tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC" group-title="Canada",Al Jazeera English 2025
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 
-#EXTINF:-1 tvg-name="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="Canada",CPAC
-https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-
 #EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
-#EXTINF:-1 tvg-name="Télé-Québec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Télé-Québec_logo.svg/512px-Télé-Québec_logo.svg.png" group-title="Canada",Télé-Québec
-https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
 
-#EXTINF:-1 tvg-name="A&E East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Canada",A&E East
-https://tvpass.org/live/AEEast/hd
-
-#EXTINF:-1 tvg-name="Paramount Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Canada",Paramount Network East
-https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Canada",Frasier
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f90e39183b000769f12b/master.m3u8
-
-#EXTINF:-1 tvg-name="NBA TV Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="Canada",NBA TV Canada
-http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
 
 
 
@@ -345,6 +314,7 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311505
 
 #EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
 http://xpaneltv.com:8080/DaiSeg/987612345/49713
+
 
 
 
