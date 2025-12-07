@@ -42,7 +42,275 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Canada | ABC SPARK HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhy4v88zNFIx4ZFaT_D4aXuoK4oMuOGWN39hLEnr0Ys_LhUfjosxsNHwHkb0Dz4Dceuob1gbUV8V5_Rsb5RNdxqZ.png" group-title="Canada",Canada | ABC SPARK HD
+http://plixi.live:80/mariodiaz/mac12345/7568
 
+#EXTINF:-1 tvg-id="" tvg-name="Canada | AMC HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxxewAhrhqjzYgSpj8wWZs88YCWvI_UehftDSKn-mMeLPxBQFC9jY7zc7l0Kko4FIQfFfz6Xq31h9MpYVewYmDo.png" group-title="Canada",Canada | AMC HD
+http://plixi.live:80/mariodiaz/mac12345/7569
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CBC HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxcjf2XjGXfAF9TR5rr2p8vxJ9pKpIQ7Qm-71-xo2iwbWLBbd8aYwGV-UdUzpAqiop61edsKfCZUaHARCWEgAwM.jpg" group-title="Canada",Canada | CBC HD
+http://plixi.live:80/mariodiaz/mac12345/7570
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhyufVuVNObqGb8k-WR4L92AAUEGi-NsIu7tRbfPiK9guSRCMn4q8-3O20MZHZRIck4bEMAh_v2X1oLTQQmTHu5h.png" group-title="Canada",Canada | CTV HD
+http://plixi.live:80/mariodiaz/mac12345/7571
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | FX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050" group-title="Canada",Canada | FX HD
+http://plixi.live:80/mariodiaz/mac12345/7572
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | FXX HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/Fxx_us_hd.png/revision/latest?cb=20130929134922" group-title="Canada",Canada | FXX HD
+http://plixi.live:80/mariodiaz/mac12345/7573
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Nat Geo Wild HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhzS5NdX6fSGhmPDCAZjlEj0zHYHD0zS8ZRQioq5tdcIIKP-CCbubTEtn8hEjhvInhrVW-pnMVgRvfd-aFshwKie.png" group-title="Canada",Canada | Nat Geo Wild HD
+http://plixi.live:80/mariodiaz/mac12345/7574
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV SCI-FI HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhz4BQVm9Maw4VxvL8RqxKw9RuH4_xJ2zRGbpa9Waji7i1Pp5jC7TzY_enIB9qZ9tYb9xhTD4O4s_chwN1XTtkIV.png" group-title="Canada",Canada | CTV SCI-FI HD
+http://plixi.live:80/mariodiaz/mac12345/7575
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Showcase HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAdEAAABsCAMAAAACPni2AAABg1BMVEX///8AAAAxMTGEhIQ8PDxnZ2fo6Oj39/coKCj09PTJycnW1tbs7Oy0tLTc3NygoKBaWlp1dXVkZGSTk5NGRkYSEhK/v7/Pz89/f3/i4uKMjIzq6uqpqakcHBxfX19VVVWampp5eXm6urouLi5MTEw3NzdAQECmpqYgICAUFBT0+P3Z4em4zOGcuNKit8KVrb3P2/DH1OGawOJ1rN2MtMiZtqh0mHtKe1FRgX90kaSqy+TN3dGNrYGpwru51NxaiGeCqZ+Qo4xVgJJWk81zobfQ1cCexu1bhrE4b6eBpMmqvquFs79qqt+JstlsmcQmYZd5iXuYspWfpncncrbm8PtniFuyxKpbksclb7Ozn4qUpYNtlXnSzcJzg5mXtdtnlLSYmHVjkIWzt5d1imSnoX+8tKV3cF9UfaIlW4fHtYJGbYikmIySkHtPb2dCYoaztqmxkGklQj5AZ00xTFpDfrY2VUd/nJwYL0Zrf4k/VGs+cJ5xj7Bea3hfWjIbQGKzv8l6ipmTZdg/AAAVj0lEQVR4nO1d+WMT17UeWZbGGm2WJY0Wy9ZiybLjDUOTV0hJyyN5JimGUEjdUFInISk0pEn74uw08Kc/zd3Ouctssh09YL4fQDNz587M/e5Z72LLSpAgQYIECRIkSJAgQYIECRIkOHcsLgEyzU5p1u+T4LRIKdioFmb9SglOBZXRCdqzfqcEp4GB0dRKa9ZvlWB6UAopgNP8rF8rwRR4bQLLKnsEMpm0S+URozSR0hcM9tb2zu7e3vaF1yw7I/E3oIwumO/L2aaTrVbOdDZrOOuHQisbvXACFfb+zsVLl37z+hv/9dvLFyyrJ0lkYQPco3Ymk1ly2IVse8G7UKtKEU6jQrvAYhGfHSyRk/UKuzm36tXUQCUmx5lVdsJdJaXnqtAFvPIZ0n2c6uSfind7B+4mLyY98ZXG1v6WZV1583dX3/r9H67998XXLJmjAqXIa92u94M1XBus7MjlZUvryKEa8LODTTi5RlkjNa3CQ1xykdaxBqV77LLNXmG5T416lVh7cXeOXE5iZ4b9ra0r2/vX337nfy5durhzcOPd15QCRdJe5cmvRWC0InnDFVqyI/vITXo2I5/1ZMxyRC+hWBV6oCgVZqRTRu0yf1iW/BCqhDy3dh6N8yJi/+py68p77/zx9ZtXLh4eXrp1+/ahWoRo1zkLMzqQWaKCN04pIJR2jWeJLhd6MycYUipOZch1wmid96JJR6iJvuGhJt4rgZV9//3tC/feuPPGn/5w8/BvFy/dvXH79kWlTI+3IzA65/3qTQxbqbfBm71B23t+7DidIaHASzc16dmlouP0mD7t8DpH/AlEyLqTH8ukQL1YsGyHanCiu21Mct1lkrzG7qZ2weSkvYrYem93596VD/585879Ozev3z36y+UP0wcX5DJ50mJ5xChpYaZqLXdjmfy/AgxM7pkceacpzSOmIJlKLWCp9ECCJM8aE4GeZ2eJTNYtCzO6MaZZSXw7Ucb9s26ZFxTO1Wuf3jt8908ffHDt/l8P375798bugycf/U0ulONUCUaJHVOyg9SIck/YskfEU1nHFHGCvb6QQVWUyFnxQ0jbGidaMNrjl/roaI11uASTlrp6/PbO4dGl+3fee/PjT97+8uTGnvvhk+otpRjXlYJRqudcqdC8d6qp3FmSRNHiGtxm3DJ3lfjNVf4DDCIxqp5K54yK/kJvpz2l5f30CZhfOdjbfzw5/uTo+puffvrpxw8PPzt0Ss7nT/7+6J5cLMUaGuwobeBaEYwXJXlZeQAJM5a0ury+QCSLulSbTBVT7YsK1z09awlGUQRK3bWseMb4NM3wEqHw+NHlh8dHh4dvPfjH1x/ftLYHDz4sdt7/Qjaky1w+gFERp3Q5qa6sXhlQvMNQ4eqyw/UvDWU82ilxwxrHkFNNL4xwPUTYvZCKus0x8lEvNZa/uHy8f3BydPPo7s5nX1/Yuf3kwedfPvznVzKjLlediB8UZDZJawJBGLqJK3PlbHP9S+vyFGohZUKLl8UiSk35usX8tsxZtsqLjNzub4/3t28dXTy8/vVnvzk5uf3kX//69/9+ozBK40BLlrgyanOPDRKMag4nkR8pmTMWzPe9XwPmeBE7mDUyWuKMykkhEiBlWXjUsBJQ7O4e726fnNzavXt8aeLo3qh8+89vv1UYpa6uR4KkQ+0xpPwaLDBZVOsfccIFiNVLe7+I19RldxL9aZbREmQBMQbstnoq8YsA9lt7x/e/O9i5e3zr5OTk6GDnwZvXvi19L3tGVMF6qlO1irkizal7LYp9V+XeKj6zCPqT9IgCzfhQtihxtgzLzCgpPE+NcPksGuPlwNbOo4cPP7l1eHJy/dLFo73Pn7jZ0u73UmqX5vZI1lT3c6xcm8mRLfSvpd6MecZJdSqcRDCZHeya6rB8GO2TcxXaLRIwFJ59dPmd9w9OTt49vHVy8OjRD09//P7pR9uoRDUFHBgYZTGky5LtyB1d9oSLuslISAkBc+yASFkZ2UHiXg311zQySlwicveqfseri93vrl27unPr9sGNg4Off3q0t/fj999sg9J12CQGygnK1A+FWLhMrmg6SDidLcoMHRgVvYD6U3ycLe0dYDtImYPYsljD59UIRUybMUj1q4v8d1fv7+7v7ez8/Pinnx599VH26dOftyxnMEGxJ0IUFpVIed0245RoymV+NTVPYpWcJ9pebMHc1z5hY5lWuM4fLnxbEZdQxlly0NOoG+RGM6M9dnf9PBrmhYW9/93r//n7F48fX967/PirX37Zenb5AkvNA3hQIhilkjesFgd0JhLhKMdKb2QqQ/rLk1I+3lmrVObZT7B6rBwaN6nRE83OoMz6k8ejmVHuGvfOsX1eRLRW/z3+/Munv/yy9/zHb57/8HzfsjdkQoXO5Izm6grlVO21lLPU+JaNZylcucdMYK8ppYn4mhnlQ6+JX6RgOfNDsTfYff7s+fOnT59vsZy7QBMaEuxoWyrCDV9hhM+OWEu7Utl1qf3rKseWvWroKz6M0uFxLQhOYD/bfba/9Wyv+/TZviJpq0U8kDwUjE4MpZDTEcryFWGSL/g3NvC/oHjKxJNWssEO9Isme7oPo7RDJH6RAfZW3m1s3fMm7FpOg6OkjqSUvLNCxkqddqWS7ihTefO9Srdb6SlpOae9NDlb1iZ35crj8Vgb2iyVJ3WstgfQm8j76O/tmQctq5HgxQXRutXwcgleFKwnftHLBeJyJfmilwhkPDwZR/PHsltuZpYy/Woxfy4zJQvOxJViDziDKQc5EubMhZazSwPvu5Yqzd6ZPBe9gTNOT76n0u40/h9OoWhVpdB+2JHesTg3TzDX8bu/MqIlRj6r2Nz+ghyWVvVFDX1Wx9xAv395nV6j+eRubZ5V56Jr8zXNpmbLygTwUVoNdiprU4l5blzD9c73pA9vsE/xw7mv6GjJYT1BBj1VsOE3tAyzD9Kmq029+lRqTekeuVTAU0RI2/OO5kTHkK6llBoHUqPDK0rr3iYRUCW2TrINX1RDfWXJ+GCAOmfyrNE2PzYjurxoQT8lF8RoNmOs3YM8Ug3JR91/FXksMqLDcxALOent5HkrRbSASsGq2ltjLrEomqsF0fP/ZIrzZTS37vtg/qGnYdSnu1CsYB0Iq6NctRI0X8WTpw38LJBtPDG0JOcyVfSFWFL9U4uz5tmfr3ZoCYpzZbTg35UFP9MzWlow1gtA0weh52vdAi1w8vpAY+A4eZ7RcsQlNCOwlwoD70v8BaNvIDIMqLVLi8yU0ZXAR1OvYWpGfdQTxoJQscvinDbvtw/ltZYHJQC6czH8uakeLSq6XD1igji4bmpIZsmowSfCoMppWkYDNa6AsD7gbqvRAJJ0zW2CxD6XWm1Izoy2WvVqlPxTiPTTJPUMGXWDn8wGUKZkNBqhMEW7L844ftWnNLcJTCzP2UcklGkCySyETyo0zykWYIp/hoxK37NZqY57feTyb7BS0zGq9ebFdtF1B52m5rSwcAKspXHdG4MSrUKf5APnqqe3kql6zx03lWDG0VtAGho0Ql7cvtQe95o45GVfAoxu1g1YOb+VdA56mXkeaeeKXJHxxpuKUUX8V5Hc5TpyO7KZQiBuiiGVuryyFCMtLjAPWW7zVBtFKrab0epR52MEL0SVJomLvuVw28VlDx7zay9URh8ojUo1YPqQh2kYBT+H8KnuZuNKHhmbhwDqUm4IqapNuSIQeGp8ZWdMU6M5bgr4fDPdeTOkrASQtpDmTmQXpdeeHaPQrKpm96YHifTYNIxKqlULMC2xnp+Cuqkgb5IhVWaySaEjRKPzyvEEQ5OrQydtoxS/Zu6H/pspgSOp7uThqSTRf2bGKNIh2rX8GijQKRjFpm/N7ENK0kEEDBS1pDEUgyzl+uAWantx/s3P//BsDdbdBc2R8R1GBxHQUrOFYVf8nhmj0PmDrUd8RvFeGHN+X4WtOGl9EDBJAhSPRhoSVcQai7N/ziA3VCQsrzprGz7pe1FgZL7OMDNGoUl7geXiM1qFxqn7fxSWUiLHRkMq7ZTiAVcB0SiRcuR3aotZA+GqqbOMaYQMulzwSPvMGG2oRPggPqOoaYJGjpAtJTeCSUMygkWZAPn+0MQkhY8mMsZegagFW4ahQ+hcwRtizYzRknjwRmC52Iwi4Que2YUme3uHRqWheS6oSle+AXTwFJun5PrKc9b1zggXA7einBmjyDEMbPjYjEIyO2RRCgpavaABZAC8DDRaxoBWr4GQEwbBcVmyImIejaS11CS8prrA3gZO/J5d9ILSK72AYnEZRT3Fd9YDA9hBkkADJ0g0hQhs11a0a4hC7wj5RZFnCSyk6ugdHXWsSIm7kJkI6jOzYxTbjkX/PHVcRtHgV9gXIf3sHYJHJbSmqCwtskEiWoXwa1H+nOj7PhIKy/CaynaVqUVpHnoDXVnzV+yzY1Te+SDtx2lcRqEnhzqcyJH1xApaTETrgkdXsC+UIXQdMqawKB9GAhNK2MzXVu22lHeSRgEyfppgdoyqXkfF/IqhjELPII0N1saULJIBpkvsOEggwgPhPBWEJyv8WOg6JJGUkg8jQahZsJlZZZoQFkYlW71oHlQFRiO/x5lBtRs1EweC0Y1x2QhQlqRdoLrwEUfQlCQjAASz64LGEaqXV7sglQbzHWORsFwFQ15aZSfNLVPzSwtjgxhCoYyK8540ZtpxpqfF1pq36Q+PUWjZTcMTFUDAQlwN6BtMXYxRzX3+m/mnMBpAtDsEYzG2TzYyOrHvypgMeMQK2RM0tUgmaHz03DcC1tbxpnSDGpNRaNl14yMlKDSAIWUeqMiNO8hsMvMMZpQ0k3HGURh8GNUyDkOuyG3DTLslxVrNlFHzXEA5JxqTUQgiIkSFyqAoGFLGijjOYeGn1/rimDikYOOCU2ASfBnlgzR6myjn6dtKQjBbRqUkLACb/KkZjSArwCh1uyAzSw5FXUSChcajMiEcT+oqqeMwkeDP6ER/KTPyuZiqe68TYJd41oxaWdP8MTQc8+vIKB3OgH0bSPuJ3tbzjoRrTqITMKPU3ThjGZWWrHvogoNhWiUw9HefMDCjpUxlAjTE3vaOmR9Wrgj028W4CyvyhjmLkGyb2o5G8FBaSmHoDuTThUkgEYSwlCRJCKJCHfSztaPy3zqZeHlSFJDt699eF5o3KqP0jVEGlioh2nOUGGozHfOvGpV06yAojckoiF3wAAD6KA8sAhXHnvsDZpVcg0OvG8Mb0yaAznB6X1db2qKJfcEw1ZEL8dSMrqNq9EribsZf0Owpz/jEZBTFo+HL8MryrTjxYyG+Gd3CsHmjbYIM5lJDT4oQNXH4MKqYypFR6XWUfYLEOHgQozj5EZPRVD32H7ArKgkHpmgEowulvBGKBYNawlfywXuzcAUozqLhMfViFZtR7gil8K0RYWS0pUyb8B1vcJTRmrb6UQVb34oU3c6/hSOE0Wn+8pQrySPTmnGzgKAOw51OeBjLtYEVLqL2Zp0Tu76Q5Od++Tq+NSJMjCr61DidgSMv+8PUlEbN60ZgtJKeoFJTHhAL0p9WokIaN1MP4xehMwnQBAX+8eJEH+oVe9yIVE5OM6PYA42+bZXOqDJBZSNsPYyD00u0C58ho6wr57h26hqqCcMyUr3UaYzLKMpDhald+HbhhwkfbwHEsKJddIFccSdKo6t7MflCZbSgxKBRdtdBwV9d+apTMyrUbIG96TQ7ctmIUnIi9hwGGHMK6VJoGYkYAAMJh6zNQLuYhgRSj19EI+2RI1KFUcU7DJi6i4FMXks+PjtG+ddN9Sf/wJRRFyM2o6hdgoUUNYUwViDhA9EzCtrFEXijMNiFouqo9kZi1FHWXkY2x6B4XfmzzpBR7n9PtYMTeHCktWIzikQvMCRFVhQJM6hT/gOtgxFtrqQL8Td7iLrREWK0oMT0/ejD1dCFSTIwHqNNEUG0cIZBY5Q1zFRpRHhBorXjz+5EbRMwIIhn4iLzoLvtyGXuaxexF4SclMAPL4jADhhV/trmQpzZhMokxniMavBjlBqhMMteMD0TRpKI0ozPKNLbAZPHUJoNj7vpi4sQ3fqKVzwDBe/mG8BIXl+1r8J3Kalt0nowCNjzDs+JUWmLcD80jEErBAbk4hTrXrCc+UkLziVjc6uvukXtktMuSnkUfME3GiddhhFjZtR/Gl3OuHgNvLmO/PVnyih9SjCjOXOLK5VPwag0N6JnfDTOy8iDNGorS39eQptDIN0qybfPLCfaX2vmZ3moB0yPqhnbFBwPIvszlFH6JktKUgTlTMjxNKsNJau0qGdd5I+Rr6uDBj2flyNQphtKAyamGGbAba22D0PQXfLT1TQvMgVEuM+JUZpBCbSjwgNq4yZF8zFotn+qNd5ypF6VP60lj94pMqEaUqn9GspFRcMUAq9KmWsiThqjfhvhEQgKMrgUIpQmyeIx2rYLDDadRenHqPRnmI3AjZNxaT22i3v5KXa/sZXYruLwr1vuKPltVShUQypfVS6q2SHVdUo3+HNzjjJC5l1QGQ1cBIC7y7DDsg95HPT0yClgNFswgtUXLx5lXxYQj6pOxkJ3aUkedGBp2el21tDnpI1WK/1KVx2CMsx0kJtZGb+WxXtNu1nfn2adPFffQiWrPyp4+E8ZklkZLi0N5UmDaqbeB6yZYjFq03yz4W9WCWh/uEODOpoWb/ebkrFODYZEYV8qoIiN/NqGcDedigZSL2Z0MyRnqv4hHB3s80MZZSmTOIzmmEsY9I654P3GIO8y7Q5VppmjGkwzSOTxZiW3KncUk1sabSMleidiNHzoL2gDOQ98iCiUURZ+Rx97sXl8FDyqFLDJo4cNboCm3kUu5AHK5wAk90bLI0qjXUY1GWH3uhXW+QWjkZLyIVSVohWLw2im2e/3K9CVwmaFGHe+5RA+xyn27gwTFx8dgnWhpldxe2lbCFKUwvYdEzEPf1LEbOk4qFLxMWfIqILwOQyOukOTwBr0htPsxqouIZHgmwvHPU3Tq1gCfTWlcRKy+A5IUVFGo2+a3PJXO1DpeTG6GWmekY9/hKk51Y7JVlFzbhlW/d8PhyCansHBjb+fUDBNfSdYwxGdx2ispLw1MH/PKnrPc2I08iqoji5GUgANjOqhAgXYPaPMOIbZwPV0UH9DgZVh7Qxq0iDZyvVMbZ+RR2xXpvjjiG5Xq3Uo1RrKKEtBxpmvW09HnpcxQavcRdq3O1aC2HwzTdD07csdViLtY7hzgwq2bLV22GyVAa+wabAceXExbH1qqYc/LLWedtQuUF2K01AchU4G9Zb1qtI7s+lg8I+KPqe+M8UfK1h2BsViceDGnhIaFbm8W/Se4LR+3YXPhcbgXJ5baJDvcc/nj6kkSJAgQYIECRIkSJAgQYIECRL8avg/A3V6q+XGYs8AAAAASUVORK5CYII=" group-title="Canada",Canada | Showcase HD
+http://plixi.live:80/mariodiaz/mac12345/7576
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TSC HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhw3nHiY_onQo1T_4doB1PRXgW4QTuzzdDiWN2Bn1WEujmzouYJSKFwM3kE1D2QT3zsQKppK6rdLirzeUnY9lVjJ.jpg" group-title="Canada",Canada | TSC HD
+http://plixi.live:80/mariodiaz/mac12345/7577
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Slice HD" tvg-logo="https://www.slice.ca/Content/images/logos/slice-logo-2018.png?v=1-0-7222-23197" group-title="Canada",Canada | Slice HD
+http://plixi.live:80/mariodiaz/mac12345/7578
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Food Network HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxDfqv6_AqL5krFsu_hs0piWrvu7EQT4dw_7_TFqHn1QyzjurCxK7-zsuMMs96xtCrirDZI8Hz7CZToeuhl31ht.png" group-title="Canada",Canada | Food Network HD
+http://plixi.live:80/mariodiaz/mac12345/7579
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | GameTV HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxHwPwOuF7b0cr60LkrY2LA2VbutElMvY2ZO415rRzPe4JYJOWYfy-m-dcqv8b8Upg9peIvSiV5gej3tMtpQvly.png" group-title="Canada",Canada | GameTV HD
+http://plixi.live:80/mariodiaz/mac12345/7580
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Drama HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhzsblTKtdRkM_ZXsMGNbAZkAcuBu7bc8ejKdF-GdOX0767193STdejn02PMIEstDF3xVlfNjiwCaRgsHTDj0K5I.png" group-title="Canada",Canada | CTV Drama HD
+http://plixi.live:80/mariodiaz/mac12345/7581
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Much Music HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhyjv1VIXw10q3HsuS2DjUdvzScHpu1wQdzLKRmTnsibVlQLdFhvOdTYS9vCyl0Je_0ZWT795VQAR9ngA2BdtgPQ.png" group-title="Canada",Canada | Much Music HD
+http://plixi.live:80/mariodiaz/mac12345/7582
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | MTV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/MTV_HD.png/revision/latest?cb=20110408015707" group-title="Canada",Canada | MTV HD
+http://plixi.live:80/mariodiaz/mac12345/7583
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Lifetime HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhzGjABR73WqPBuZnQd-Nwveex0cK_xalQDYHLt9rTDd-fujGTYzLgPqJ926XgY53WyayO8LyEwFcyGivOqNg2qa.png" group-title="Canada",Canada | Lifetime HD
+http://plixi.live:80/mariodiaz/mac12345/7584
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | HGTV HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxetqbIJzwTUOkh3Px5Aqn84NLcTewCERyKwizDEgOWNcTxsw7_juvSGXor8QfQbb9j2vp7PNdzE-iGbORVfa6j.png" group-title="Canada",Canada | HGTV HD
+http://plixi.live:80/mariodiaz/mac12345/7585
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Family HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhx7JcuqW9WDG01_4ZbIwunBfRzU9UmJYRhvhXZlX0cUl5TYTxklykRsNY5Bj5MXgh32uM8S_dnhFrb3lV_AP3vH.png" group-title="Canada",Canada | Family HD
+http://plixi.live:80/mariodiaz/mac12345/7586
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | E! Entertainment HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhwVEbzcYP8Jtx0RZoMIyIc0AG49feKW3PSosynTkCyi-a8hLUXkH44pXV6xm1s5AIUm01ZrJguvu8KBfiAaZx4P.png" group-title="Canada",Canada | E! Entertainment HD
+http://plixi.live:80/mariodiaz/mac12345/7587
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | DIY Network HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhwvQnKbxdxAg62TTq1bH7kxsTyEi7Q64P9ekQRBFq19h4waX__5RVEug63T0Nv2dC_KT408XVg3xan5qcrIXkfP.png" group-title="Canada",Canada | DIY Network HD
+http://plixi.live:80/mariodiaz/mac12345/7588
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | BBC Canada HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhwnQKg1V3ods99gNeGmrgVc0EQUb0u-Ea-YkSUBB3Trta4Oevaou9v7htSY0PXpQwsQUMSxcx2gcWvps793nlfx.png" group-title="Canada",Canada | BBC Canada HD
+http://plixi.live:80/mariodiaz/mac12345/7589
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TLC HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxBXgyMRjd4Zbvvra5SdjdsoZp5YKFshnr-5_D4SOPmGPInCjPJ8sE02kxe2SosxYfo2g8gAQmqHP2WA96jZxC9.png" group-title="Canada",Canada | TLC HD
+http://plixi.live:80/mariodiaz/mac12345/7590
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CP24 HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhwnhKieSdDToXk3bP_nenwqhPoQ0X5HHX7kph2Us5VnHDwy8fqt9MFe2-vibZi_L2V-qGLDaZXFh3bsvaJYbDzW.png" group-title="Canada",Canada | CP24 HD
+http://plixi.live:80/mariodiaz/mac12345/7591
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Cooking Channel HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxkGcicFPbk0CS42QosdFkdud6tJMvm3UA9hNuB9qGD1zvxwGWQvW56hp5XJqsahYgQmYEqxWAhb440MB6VGCyX.png" group-title="Canada",Canada | Cooking Channel HD
+http://plixi.live:80/mariodiaz/mac12345/7592
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | W Network HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhyP-e3Eiouf5e_jME6YOaMOPK3gkWKohJDK5DhvIeqB2q3OP8Y7omOtutO6K7qBbGIoCzRfYN69pbaC-4Pd7W9R.png" group-title="Canada",Canada | W Network HD
+http://plixi.live:80/mariodiaz/mac12345/7593
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | The Weather Network HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxc5JooZLfozTIt4rJuAMDXuzE-0OUq23WXxpF8NdhpmjJzYIIaGo4HNGyxglX5wCxNFizqjAOMknQX--QFtkjv.png" group-title="Canada",Canada | The Weather Network HD
+http://plixi.live:80/mariodiaz/mac12345/7594
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | ABC HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/Abc_hd.png/revision/latest?cb=20110408023942" group-title="Canada",Canada | ABC HD
+http://plixi.live:80/mariodiaz/mac12345/7595
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CBC Central HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxVLn3FuKOvhIfKFF6BiibD21yIN0dFCkWzyvGK_BhXT2DebXb4pbRQv99pbUfAe1yvdDeiP77jAhLP3O8N5XVo.png" group-title="Canada",Canada | CBC Central HD
+http://plixi.live:80/mariodiaz/mac12345/7596
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CBC Eastern HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxVLn3FuKOvhIfKFF6BiibD21yIN0dFCkWzyvGK_BhXT2DebXb4pbRQv99pbUfAe1yvdDeiP77jAhLP3O8N5XVo.png" group-title="Canada",Canada | CBC Eastern HD
+http://plixi.live:80/mariodiaz/mac12345/7597
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CBC West HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxVLn3FuKOvhIfKFF6BiibD21yIN0dFCkWzyvGK_BhXT2DebXb4pbRQv99pbUfAe1yvdDeiP77jAhLP3O8N5XVo.png" group-title="Canada",Canada | CBC West HD
+http://plixi.live:80/mariodiaz/mac12345/7598
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV (KITCHENER) | HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhx2Dvcf94GpsgCJJpX6VcnqBX9b_Vxnjy-tBgsLN1iGBPuk1CyIpRqc6kDeYzu8i3EwN6bjiRv3W4N81rEX-6pO.png" group-title="Canada",Canada | CTV (KITCHENER) | HD
+http://plixi.live:80/mariodiaz/mac12345/7599
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV TORONTO" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhx2Dvcf94GpsgCJJpX6VcnqBX9b_Vxnjy-tBgsLN1iGBPuk1CyIpRqc6kDeYzu8i3EwN6bjiRv3W4N81rEX-6pO.png" group-title="Canada",Canada | CTV TORONTO
+http://plixi.live:80/mariodiaz/mac12345/7600
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Western HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhx2Dvcf94GpsgCJJpX6VcnqBX9b_Vxnjy-tBgsLN1iGBPuk1CyIpRqc6kDeYzu8i3EwN6bjiRv3W4N81rEX-6pO.png" group-title="Canada",Canada | CTV Western HD
+http://plixi.live:80/mariodiaz/mac12345/7601
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CPAC HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhyd3rtoAhH67gT3lwRYwkGjG3vKia8yGN61Ca9F3sM1PasyUPVSBJTwV4hRjiTkn0EMH2sN7dXWMIehxUiTtv4X.png" group-title="Canada",Canada | CPAC HD
+http://plixi.live:80/mariodiaz/mac12345/7602
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | NFL Network HD" tvg-logo="http://listatv.live:80/images/ayfdHaSGfQQ7HLxmvsjLeA6JynoBwcSMiVsjqz13D1tcKtDhKonXVFlYnuTZs-AK__sAaCUqETFdyRs9aKj4rQ.png" group-title="Canada",Canada | NFL Network HD
+http://plixi.live:80/mariodiaz/mac12345/7603
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | NFL Network HD" tvg-logo="http://listatv.live:80/images/ayfdHaSGfQQ7HLxmvsjLeA6JynoBwcSMiVsjqz13D1tcKtDhKonXVFlYnuTZs-AK__sAaCUqETFdyRs9aKj4rQ.png" group-title="Canada",Canada | NFL Network HD
+http://plixi.live:80/mariodiaz/mac12345/7604
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Bein Sports HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhwDFbcNko5FGGo1MclxPyDYJ1HwYN-RA_Zf3wFdvjUNYv1e2fmwfpgRJ9Z5l3zW-mx-tJzweIN0iVXdxxLdDHN1.png" group-title="Canada",Canada | Bein Sports HD
+http://plixi.live:80/mariodiaz/mac12345/7605
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Bein Sports HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhwDFbcNko5FGGo1MclxPyDYJ1HwYN-RA_Zf3wFdvjUNYv1e2fmwfpgRJ9Z5l3zW-mx-tJzweIN0iVXdxxLdDHN1.png" group-title="Canada",Canada | Bein Sports HD
+http://plixi.live:80/mariodiaz/mac12345/7606
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | NBA TV HD" tvg-logo="http://yt3.ggpht.com/lwNmuM6cV_kH2dT408Q5HBdKCf7gKM2A7yh_cclROgG5urRy9qvfoSsUhkUZX94xH6rg9m4bAw=ns-nd" group-title="Canada",Canada | NBA TV HD
+http://plixi.live:80/mariodiaz/mac12345/7607
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | MLB TV HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhw9aP0cAvehy4bMG5-BCCZxPSLTY0W9X9S8FFcsP1fJ9eTapfIp2fXlxyXYvcG2dK5IvOFkpPH7NmIkqutCyhmg.png" group-title="MLB",Canada | MLB TV HD
+http://plixi.live:80/mariodiaz/mac12345/7608
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Golf Channel HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhyGoViJrhwcbBOnCiIdeJ5cjAZ3sG959nu6sraUiTT6t-aYDsT-67jO1uzhmJSuX6WD5PilHiKBKL4fL3VyF0ak.png" group-title="Canada",Canada | Golf Channel HD
+http://plixi.live:80/mariodiaz/mac12345/7609
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Fight Network HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhz2RRbm7npSPIJVtE34lPi9lj5mOs8D-0lFOVsZYDqOIEd-feJE98gFeXspm0LfwEco9LUNxaAXUqOV6itBH3qV.png" group-title="Canada",Canada | Fight Network HD
+http://plixi.live:80/mariodiaz/mac12345/7610
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TSN 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053" group-title="Canada",Canada | TSN 1 HD
+http://plixi.live:80/mariodiaz/mac12345/7611
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TSN 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053" group-title="Canada",Canada | TSN 1 HD
+http://plixi.live:80/mariodiaz/mac12345/7612
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TSN 2 HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxk0u42pqRGmhlxOS-3I3N96A26w_Dh-x1HRDU6qEXainN4ujeX_BmcmkdFhUsUVm0bWg4lA1r7UqFMJa9d85gu.png" group-title="Canada",Canada | TSN 2 HD
+http://plixi.live:80/mariodiaz/mac12345/7613
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TSN 2 HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxk0u42pqRGmhlxOS-3I3N96A26w_Dh-x1HRDU6qEXainN4ujeX_BmcmkdFhUsUVm0bWg4lA1r7UqFMJa9d85gu.png" group-title="Canada",Canada | TSN 2 HD
+http://plixi.live:80/mariodiaz/mac12345/7614
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TSN 3 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TSN3_svg.png/revision/latest?cb=20150709183134" group-title="Canada",Canada | TSN 3 HD
+http://plixi.live:80/mariodiaz/mac12345/7615
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TSN 3 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TSN3_svg.png/revision/latest?cb=20150709183134" group-title="Canada",Canada | TSN 3 HD
+http://plixi.live:80/mariodiaz/mac12345/7616
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TSN 4 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Tsn_4_ca.png/revision/latest?cb=20150906015754" group-title="Canada",Canada | TSN 4 HD
+http://plixi.live:80/mariodiaz/mac12345/7617
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TSN 5 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/TSN5_svg.png/revision/latest?cb=20150709183505" group-title="Canada",Canada | TSN 5 HD
+http://plixi.live:80/mariodiaz/mac12345/7618
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TSN 5 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/TSN5_svg.png/revision/latest?cb=20150709183505" group-title="Canada",Canada | TSN 5 HD
+http://plixi.live:80/mariodiaz/mac12345/7619
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Sportsnet HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxyEOjS7voDI3xqn3bH2AGLwgKnSIr-AUTOit5bCzV8xBTLnM01_aIuRGymdD3slF9a4ne75-_9PD9vtQSoHNlg.png" group-title="Canada",Canada | Sportsnet HD
+http://plixi.live:80/mariodiaz/mac12345/7620
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Family JR HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhwIhedeSB8uEcjIL3KImItgsAxvg66bFfBrvzYAXRionQRDT8H2OydwcV8uMO7IjTQwX8V-e-I2GRingRVhGEHu.png" group-title="Canada",Canada | Family JR HD
+http://plixi.live:80/mariodiaz/mac12345/7622
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | A&E HD" tvg-logo="" group-title="Canada",Canada | A&E HD
+http://plixi.live:80/mariodiaz/mac12345/7626
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CBC Calgary HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxcjf2XjGXfAF9TR5rr2p8vxJ9pKpIQ7Qm-71-xo2iwbWLBbd8aYwGV-UdUzpAqiop61edsKfCZUaHARCWEgAwM.jpg" group-title="Canada",Canada | CBC Calgary HD
+http://plixi.live:80/mariodiaz/mac12345/7634
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Yes TV HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxkAt4SAnnVMUciz1n2fI4TBIIVgWEAWPTDZdvjGy0iLAl6rqjiVaKfaT6XkzRag-RuPHoTvGOcfKwN0U9p8_xq.jpg" group-title="Canada",Canada | Yes TV HD
+http://plixi.live:80/mariodiaz/mac12345/7639
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | ANIMAL PLANET HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxu5xdZSO3iktVDqlxfvZuOKyI2Mu3sj0D5JDo6I8bSmNzyGMYdqS0y271pOyE5ZS6UtJLwAGUfXJK5u-NzDhZ2.jpg" group-title="Canada",Canada | ANIMAL PLANET HD
+http://plixi.live:80/mariodiaz/mac12345/7640
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TREEHOUSE HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhyU2Tx2lf2-Rwwtn_WeKpSa7kR0s98GvGnidwXO4ECyg7pU5HVUrBqRlt9i8RMumrLOHHUZmyl1QSNaUJ9s_CPL.jpg" group-title="Canada",Canada | TREEHOUSE HD
+http://plixi.live:80/mariodiaz/mac12345/7641
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | YTV HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhzIWOQ6uqIy-3g-Go_XaPa3qk88jPjhtkfdmsOt3x8BwkT6dRWlHdvfg4810mlJr-xit0drhp1Ua7p5C0ZmUwxo.jpg" group-title="Canada",Canada | YTV HD
+http://plixi.live:80/mariodiaz/mac12345/7642
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CTV Montreal SD" tvg-logo="" group-title="Canada",Canada | CTV Montreal SD
+http://plixi.live:80/mariodiaz/mac12345/7643
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CHCH HD" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxorCxM2G247wLGR_oJhPrfVaIDS-KcBrtGiksJOWbExskxqgmYJzsV7497fR_P5-JqwId_haCSj1sX4MhRbVIe.jpg" group-title="Canada",Canada | CHCH HD
+http://plixi.live:80/mariodiaz/mac12345/7645
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Ami-Télé HD (FR)" tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/68/Amitele_logo.jpg" group-title="Canada",Canada | Ami-Télé HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7647
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | FTO HD (FR)" tvg-logo="http://listatv.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUcdtboXea41f5CPXL9vzIKuYsFEE1yG6vxuI-9HkII2UYJbTx_tQLcyJMAvtbImBc.png" group-title="Canada",Canada | FTO HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7648
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Investigation (FR) HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/c/c5/Crime_%26_Investigation_Network_%282012-2014%29.png/revision/latest?cb=20170810191451" group-title="Canada",Canada | Investigation (FR) HD
+http://plixi.live:80/mariodiaz/mac12345/7649
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | ICI RDI HD (FR)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0c/Icirdi-hd_logocablo_rvb-web.png/revision/latest?cb=20171229213214" group-title="Canada",Canada | ICI RDI HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7650
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | AddikTV HD (FR)" tvg-logo="http://listatv.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U5zwOUkonYMpaDXntVc6zr0MLC23Iz0Zektld7cRDabk.png" group-title="Canada",Canada | AddikTV HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7651
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Canal D HD (FR)" tvg-logo="data:image/png;base64,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" group-title="Canada",Canada | Canal D HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7652
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Canal Savoir HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhy2ybDJZNHnNS41iMtMcxLq5MosaYSvDMpddRli8Hrk7huVj5BXnF8Jx-POecRUHRO8Ob-iTCGdPZSAcisuJfNg.png" group-title="Canada",Canada | Canal Savoir HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7653
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CASA HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxVsBRP0eDQzRGsQRDYhBdS6X5J-W31oM5zUVMg1I5HpvlC6tfVuFtXwkU_wzvSNQGFflI2pArTbAaSCEDKzq0D.png" group-title="Canada",Canada | CASA HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7654
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Evasion HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhx5n0HKeQjJ7nv5nq-EoZFD6eJedbe92NeiUR5x87YWIeFtl2fA5-tpUCxwcv7VfjJ7e0SONn2TZEUOLppVHlp6.png" group-title="Canada",Canada | Evasion HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7655
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | LCN HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhyiPOYnD506zwvrU_LpKs3PvD2N3qbvuBggUwMMYucPc9_e2C2b1irTUu79Zb8l9V4CX_g0WUZHIJ27SjWYfWld.png" group-title="Canada",Canada | LCN HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7656
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Moi & Cie HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhy_aVe-YSSKTSerijKpcPbKq8ZpTCZ5_QCkhDiEpccZQFmMadW43WrCVgZOxPMfSElzBnOvXaoPwz5rfzivmeJC.png" group-title="Canada",Canada | Moi & Cie HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7657
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Prise 2 HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhyvWJm66eyEA8LWXRSFMOuDIxmuFheqc2mTG7tApfV89chcp2bIESaoNW4uexj6LdhVUaF8QBVfqcIuBR7ETiZr.png" group-title="Canada",Canada | Prise 2 HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7658
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | RDS HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhx4V9m3SP9ZL6hCmZ3D5JxNzdvGdgaVIqzv8enLlp-eRQl0jxbXYxvPLiHa3SdPv-muEb-M8SjTKxmwLIXOKr-1.png" group-title="Canada",Canada | RDS HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7659
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | RDS Info HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhw1Sx6P7RByLvcHc7ViwjT50rZd49IzFNFpWddrPBiEw1XNzx8JjZ93q8KRW6yRCUo0a1_kQVqplgAFrwbpHDW0.png" group-title="Canada",Canada | RDS Info HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7660
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Series+ HD (FR)" tvg-logo="http://listatv.live:80/images/fVQwnC0i7uFtTS5nTGHlhWwXTTURASrm-i9766D7UAUgqnpXaOl1cNtDC18DqIQLJHDkhtteD2ACiCccEq1ZPVPymFpE0pFZZySFL3CMakNyAc2wx5Z_rEAkz7SmouAI6vzrc-TGv-cNI2Q54jG3Bg.png" group-title="Canada",Canada | Series+ HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7661
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Canal Vie HD (FR)" tvg-logo="https://actusmedias.com/wp-content/uploads/2017/05/CanalVie_Logo_RGB.png" group-title="Canada",Canada | Canal Vie HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7662
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Zeste HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhzDkbWWWapke_DapFOdKb6k6oR46vqVdEMAm3VZ_JNnaK6aNxFNPDnkQJOWmyH5DCi4d5qS-EFi7DvedubA1CM7.png" group-title="Canada",Canada | Zeste HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7663
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TVA HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhzM6UP09wPMrXG5zrzKBRc70-0ugfgK-TFn1ZBzf3-HURpxbXCfH9rXOGFDY-ZjbyFNKQeQMLTbIsD3bj2j9WoV.png" group-title="Canada",Canada | TVA HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7664
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TV5 Québec HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhzGwAI-cZg-bKxIi4wu6VxAMABi9xZmcAw5ldfQXZM58-VVwFxbEBc_SE6liR3vPF_EgQs4-QI5Wopc4okjkd7g.png" group-title="Canada",Canada | TV5 Québec HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7665
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Télé Québec HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhwXrjvTo_P7jhu5VXBHSnVpvg4YoTkgbmsXI5WR-Sr3h1WJNDL9_wZPbZQx6WQO7TKn3l_whBsZoJAiHC5_evHV.png" group-title="Canada",Canada | Télé Québec HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7666
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | ICI Radio-Canada Télé HD (FR)" tvg-logo="https://assistance.radio-Canada.ca/hc/article_attachments/360027143713/ICITele_logo_rvb-web.png" group-title="Canada",Canada | ICI Radio-Canada Télé HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7667
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | CPAC HD (FR)" tvg-logo="http://listatv.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjuqlFTLXxU2RJymIklVX9IRomPCvClxoDNDN1G30cl7PbYxTdBilY3zosNczWstEt-mAyyRnKQUVXUzSOI54lWw.png" group-title="Canada",Canada | CPAC HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7668
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TVA Sports HD (FR)" tvg-logo="http://listatv.live:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvZU4WloABupuHd8YUFn3axBiYWOcKxNyZkLyjvpRWWYjqjk9MG6yP5Oe2oWHad6sT.png" group-title="Canada",Canada | TVA Sports HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7669
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | TVA Sports 2 HD (FR)" tvg-logo="https://storage.quebecormedia.com/v1/tvasports_prod/photo/e1bc86d3-b3c5-4e3d-9830-9fe2c0e5ac9b_tvasports2_v_large@2x.png" group-title="Canada",Canada | TVA Sports 2 HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7670
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Disney Channel HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhzCfdrNZdxj-00khb9IqDJegksOKdhCSJTVtJI4A4NAtlwux6WHRSD3-h7mbKc8k7d-IHZK2bkqHK-bw_5nsZX7.png" group-title="Canada",Canada | Disney Channel HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7671
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Yoopa HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhxWWJmVctICBjK6XSgkdojeez1VYvus3ybouIChaZo-6Ad5NV2h232esgDU_dP2hOFuZ9KZBhIEGCG56NaA1mTb.png" group-title="Canada",Canada | Yoopa HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7672
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | V Télé | GEO HD (FR)" tvg-logo="http://listatv.live:80/images/P3OCfKcFSeEYvxOwCVwJk26BBmxEQvfZTi4GKTCqDhyUmRc2bZjybyBu-5xK17El_6RalKVp65T5LzrE3e4-PAf9zfr-WVAv96rgVVmlNLYyXKRR5zo3R1zYqkwuuFaU.png" group-title="Canada",Canada | V Télé | GEO HD (FR)
+http://plixi.live:80/mariodiaz/mac12345/7683
+
+#EXTINF:-1 tvg-id="" tvg-name="Canada | Teletoon HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/A_Teletoon_logo.png" group-title="Canada",Canada | Teletoon HD
+http://plixi.live:80/mariodiaz/mac12345/7687
 
 
 
@@ -314,6 +582,7 @@ http://xpaneltv.com:8080/DaiSeg/987612345/311505
 
 #EXTINF:-1 tvg-id="discovery.home.health.ar" tvg-name="Discovery H&H" tvg-logo="http://xpaneltv.com:8080/images/5365356a42d407362dc077d92602620e.png" group-title="Entretenimiento",Discovery H&H
 http://xpaneltv.com:8080/DaiSeg/987612345/49713
+
 
 
 
