@@ -594,9 +594,367 @@ http://xpaneltv.com:8080/DaiSeg/987612345/49713
 
 
 
+####################################################################################### ENGLISH  ###################################################################################333
 
 
 
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="English",A&E US Eastern Feed
+https://tvpass.org/English/AEEast/sd
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles" group-title="English",ABC (KABC) Los Angeles
+https://tvpass.org/English/abc-kabc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY" group-title="English",ABC (WABC) New York, NY
+https://tvpass.org/English/WABCDT1/sd
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network" group-title="English",ACC Network
+https://tvpass.org/English/ACCNetwork/sd
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver" group-title="English",Altitude Sports Denver
+https://tvpass.org/English/altitude-sports-denver/sd
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" group-title="English",AMC Eastern Feed
+https://tvpass.org/English/AMCEast/sd
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" group-title="English",American Heroes Channel
+https://tvpass.org/English/AmericanHeroesChannel/sd
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="English",Animal Planet US East
+https://tvpass.org/English/AnimalPlanetEast/sd
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="English",BBC America East
+https://tvpass.org/English/BBCAmericaEast/sd
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="English",BBC News North America HD
+https://tvpass.org/English/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" group-title="English",BET Eastern Feed
+https://tvpass.org/English/BETEast/sd
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her" group-title="English",BET Her
+https://tvpass.org/English/BETHerEast/sd
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network" group-title="English",Big Ten Network
+https://tvpass.org/English/BTN/sd
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA" group-title="English",Bloomberg TV USA
+https://tvpass.org/English/BloombergTV/sd
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" group-title="English",Boomerang
+https://tvpass.org/English/Boomerang/sd
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" group-title="English",Bravo USA Eastern Feed
+https://tvpass.org/English/BravoEast/sd
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" group-title="English",C-SPAN
+https://tvpass.org/English/CSPAN/sd
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" group-title="English",C-SPAN 2
+https://tvpass.org/English/CSPAN2/sd
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" group-title="English",Cartoon Network USA Eastern Feed
+https://tvpass.org/English/CartoonNetworkEast/sd
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles" group-title="English",CBS (KCBS) Los Angeles
+https://tvpass.org/English/cbs-kcbs-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY" group-title="English",CBS (WCBS) New York, NY
+https://tvpass.org/English/WCBSDT1/sd
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA" group-title="English",CBS Sports Network USA
+https://tvpass.org/English/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network" group-title="English",Chicago Sports Network
+https://tvpass.org/English/chicago-sports-network/sd
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed" group-title="English",Cinemax Eastern Feed
+https://tvpass.org/English/CinemaxEast/sd
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" group-title="English",CMT US Eastern Feed
+https://tvpass.org/English/CMTEast/sd
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA" group-title="English",CNBC USA
+https://tvpass.org/English/CNBC/sd
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="English",CNN US
+https://tvpass.org/English/CNN/sd
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" group-title="English",Comedy Central (US) Eastern Feed
+https://tvpass.org/English/ComedyCentralEast/sd
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD" group-title="English",Crime & Investigation Network USA HD
+https://tvpass.org/English/CrimePlusInvestigation/sd
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego" group-title="English",CW (KFMB-TV2) San Diego
+https://tvpass.org/English/cw-kfmbtv2-san-diego-ca/sd
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia" group-title="English",CW (WDCW) District of Columbia
+https://tvpass.org/English/cw-wdcw-district-of-columbia/sd
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America" group-title="English",Destination America
+https://tvpass.org/English/DestinationAmerica/sd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="English",Discovery Channel (US) Eastern Feed
+https://tvpass.org/English/DiscoveryChannelEast/sd
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="English",Discovery Family Channel
+https://tvpass.org/English/DiscoveryFamily/sd
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="English",Discovery Life Channel
+https://tvpass.org/English/DiscoveryLife/sd
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" group-title="English",Disney Eastern Feed
+https://tvpass.org/English/DisneyChannelEast/sd
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" group-title="English",Disney Junior USA East
+https://tvpass.org/English/DisneyJuniorEast/sd
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" group-title="English",Disney XD USA Eastern Feed
+https://tvpass.org/English/DisneyXDEast/sd
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed" group-title="English",E! Entertainment USA Eastern Feed
+https://tvpass.org/English/EEast/sd
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="English",ESPN
+https://tvpass.org/English/ESPN/sd
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" group-title="English",ESPN Deportes
+https://tvpass.org/English/espn-deportes/sd
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" group-title="English",ESPN News
+https://tvpass.org/English/ESPNews/sd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" group-title="English",ESPN U
+https://tvpass.org/English/ESPNU/sd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" group-title="English",ESPN2
+https://tvpass.org/English/ESPN2/sd
+#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana" group-title="English",Fanduel Sports Indiana
+https://tvpass.org/English/fanduel-sports-indiana/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit" group-title="English",Fanduel Sports Network Detroit
+https://tvpass.org/English/fanduel-sports-network-detroit-hd/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida" group-title="English",Fanduel Sports Network Florida
+https://tvpass.org/English/fanduel-sports-network-florida/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes" group-title="English",Fanduel Sports Network Great Lakes
+https://tvpass.org/English/fanduel-sports-network-great-lakes/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North" group-title="English",Fanduel Sports Network North
+https://tvpass.org/English/fanduel-sports-network-north/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland" group-title="English",Fanduel Sports Network Ohio Cleveland
+https://tvpass.org/English/fanduel-sports-network-ohio-cleveland/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma" group-title="English",Fanduel Sports Network Oklahoma
+https://tvpass.org/English/fanduel-sports-network-oklahoma/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego" group-title="English",Fanduel Sports Network San Diego
+https://tvpass.org/English/fanduel-sports-network-san-diego/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal" group-title="English",Fanduel Sports Network Socal
+https://tvpass.org/English/fanduel-sports-network-socal/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas" group-title="English",Fanduel Sports Network South Carolinas
+https://tvpass.org/English/fanduel-sports-network-south-carolinas/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee" group-title="English",Fanduel Sports Network South Tennessee
+https://tvpass.org/English/fanduel-sports-network-south-tennessee-usa/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West" group-title="English",Fanduel Sports Network West
+https://tvpass.org/English/fanduel-sports-network-west/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin" group-title="English",Fanduel Sports Network Wisconsin
+https://tvpass.org/English/fanduel-sports-network-wisconsin/sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia" group-title="English",Fanduel Sports Southeast Georgia
+https://tvpass.org/English/fanduel-sports-southeast-georgia/sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina" group-title="English",Fanduel Sports Southeast North Carolina
+https://tvpass.org/English/fanduel-sports-southeast-north-carolina/sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina" group-title="English",Fanduel Sports Southeast South Carolina
+https://tvpass.org/English/fanduel-sports-southeast-south-carolina/sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville" group-title="English",Fanduel Sports Southeast Tennessee Nashville
+https://tvpass.org/English/fanduel-sports-southeast-tennessee-nashville/sd
+#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun" group-title="English",Fanduel Sports Sun
+https://tvpass.org/English/fanduel-sports-sun/sd
+#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East" group-title="English",Fanduel Sports Tennessee East
+https://tvpass.org/English/fanduel-sports-tennessee-east/sd
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed" group-title="English",Food Network USA Eastern Feed
+https://tvpass.org/English/FoodNetworkEast/sd
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles" group-title="English",FOX (KTTV) Los Angeles
+https://tvpass.org/English/fox-kttv-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY" group-title="English",FOX (WNYW) New York, NY
+https://tvpass.org/English/WNYWDT1/sd
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business" group-title="English",Fox Business
+https://tvpass.org/English/FoxBusiness/sd
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" group-title="English",Fox News
+https://tvpass.org/English/FoxNewsChannel/sd
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" group-title="English",Fox Sports 1
+https://tvpass.org/English/FoxSports1/sd
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2" group-title="English",Fox Sports 2
+https://tvpass.org/English/FoxSports2/sd
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed" group-title="English",Freeform East Feed
+https://tvpass.org/English/FreeformEast/sd
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed" group-title="English",FUSE TV Eastern feed
+https://tvpass.org/English/FuseEast/sd
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" group-title="English",FX Movie Channel
+https://tvpass.org/English/FXMovieChannel/sd
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast" group-title="English",FX Networks East Coast
+https://tvpass.org/English/FXEast/sd
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern" group-title="English",FXX USA Eastern
+https://tvpass.org/English/FXXEast/sd
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern" group-title="English",FYI USA Eastern
+https://tvpass.org/English/FYIEast/sd
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East" group-title="English",Game Show Network East
+https://tvpass.org/English/game-show-network-east/sd
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="English",Golf Channel USA
+https://tvpass.org/English/GolfChannel/sd
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed" group-title="English",Hallmark Eastern Feed
+https://tvpass.org/English/HallmarkChannelEast/sd
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD" group-title="English",Hallmark Family HD
+https://tvpass.org/English/HallmarkDrama/sd
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD" group-title="English",Hallmark Mystery Eastern HD
+https://tvpass.org/English/HallmarkMoviesMysteriesEast/sd
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed" group-title="English",HBO Eastern Feed
+https://tvpass.org/English/HBOEast/sd
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed" group-title="English",HBO 2 Eastern Feed
+https://tvpass.org/English/HBO2East/sd
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East" group-title="English",HBO Comedy HD East
+https://tvpass.org/English/HBOComedyEast/sd
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed" group-title="English",HBO Family Eastern Feed
+https://tvpass.org/English/HBOFamilyEast/sd
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern" group-title="English",HBO Signature (HBO 3) Eastern
+https://tvpass.org/English/HBOSignatureEast/sd
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East" group-title="English",HBO Zone HD East
+https://tvpass.org/English/HBOZoneEast/sd
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="English",HGTV USA Eastern Feed
+https://tvpass.org/English/HGTVEast/sd
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="English",History Channel US Eastern Feed
+https://tvpass.org/English/HistoryEast/sd
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="English",HLN
+https://tvpass.org/English/HLN/sd
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US" group-title="English",Independent Film Channel US
+https://tvpass.org/English/IFCEast/sd
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="English",Investigation Discovery USA Eastern
+https://tvpass.org/English/InvestigationDiscoveryEast/sd
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" group-title="English",ION Eastern Feed
+https://tvpass.org/English/IONTVEast/sd
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" group-title="English",Lifetime Movies East
+https://tvpass.org/English/LifetimeMoviesEast/sd
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" group-title="English",Lifetime Network US Eastern Feed
+https://tvpass.org/English/LifetimeEast/sd
+#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East" group-title="English",LOGO East
+https://tvpass.org/English/LogoEast/sd
+#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network" group-title="English",Marquee Sports Network
+https://tvpass.org/English/marquee-sports-network/sd
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" group-title="English",MeTV Toons (WJLP2) New Jersey
+https://tvpass.org/English/metv-toons/sd
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York" group-title="English",MeTV Wjlp New Jerseynew York
+https://tvpass.org/English/metv-wjlp-new-jerseynew-york/sd
+#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network" group-title="English",Midatlantic Sports Network
+https://tvpass.org/English/midatlantic-sports-network/sd
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network" group-title="English",MLB Network
+https://tvpass.org/English/MLBNetwork/sd
+#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network" group-title="English",Monumental Sports Network
+https://tvpass.org/English/monumental-sports-network/sd
+#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern" group-title="English",MoreMax Eastern
+https://tvpass.org/English/MoreMaxEast/sd
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD" group-title="English",Motor Trend HD
+https://tvpass.org/English/Motortrend/sd
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" group-title="English",MovieMax (Max 6) East
+https://tvpass.org/English/MovieMaxEast/sd
+#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens" group-title="English",MSG Madison Square Gardens
+https://tvpass.org/English/msg-madison-square-gardens/sd
+#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus" group-title="English",MSG Plus
+https://tvpass.org/English/msg-plus/sd
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA" group-title="English",MSNBC USA
+https://tvpass.org/English/MSNBC/sd
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East" group-title="English",MTV 2 East
+https://tvpass.org/English/mtv-2-east/sd
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" group-title="English",MTV USA Eastern Feed
+https://tvpass.org/English/MTVEast/sd
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="English",National Geographic US Eastern
+https://tvpass.org/English/NationalGeographicEast/sd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="English",National Geographic Wild
+https://tvpass.org/English/NationalGeographicWildEast/sd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="English",NBA TV USA
+https://tvpass.org/English/NBATV/sd
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles" group-title="English",NBC (KNBC) Los Angeles
+https://tvpass.org/English/nbc-knbc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY" group-title="English",NBC (WNBC) New York, NY
+https://tvpass.org/English/WNBCDT1/sd
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area" group-title="English",NBC Sports Bay Area
+https://tvpass.org/English/nbc-sports-bay-area/sd
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston" group-title="English",NBC Sports Boston
+https://tvpass.org/English/nbc-sports-boston/sd
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California" group-title="English",NBC Sports California
+https://tvpass.org/English/nbc-sports-california/sd
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia" group-title="English",NBC Sports Philadelphia
+https://tvpass.org/English/nbc-sports-philadelphia/sd
+#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network" group-title="English",New England Sports Network
+https://tvpass.org/English/new-england-sports-network/sd
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV" group-title="English",NewsMax TV
+https://tvpass.org/English/NewsmaxTV/sd
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="English",NFL Network
+https://tvpass.org/English/NFLNetwork/sd
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone" group-title="English",NFL RedZone
+https://tvpass.org/English/NFLRedZone/sd
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA" group-title="English",NHL Network USA
+https://tvpass.org/English/NHLNetwork/sd
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East" group-title="English",Nick Jr. East
+https://tvpass.org/English/NickJrEast/sd
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" group-title="English",Nickelodeon USA East Feed
+https://tvpass.org/English/NickelodeonEast/sd
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East" group-title="English",Nicktoons East
+https://tvpass.org/English/NicktoonsEast/sd
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern" group-title="English",Oprah Winfrey Network USA Eastern
+https://tvpass.org/English/OWNEast/sd
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US" group-title="English",Outdoor Channel US
+https://tvpass.org/English/OutdoorChannel/sd
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed" group-title="English",Oxygen Eastern Feed
+https://tvpass.org/English/OxygenEast/sd
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY" group-title="English",PBS (WNET) New York, NY
+https://tvpass.org/English/WNET/sd
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel" group-title="English",ReelzChannel
+https://tvpass.org/English/Reelz/sd
+#EXTINF:-1 tvg-id="science" tvg-name="Science" group-title="English",Science
+https://tvpass.org/English/Science/sd
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network" group-title="English",SEC Network
+https://tvpass.org/English/SECN/sd
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed" group-title="English",Showtime Eastern Feed
+https://tvpass.org/English/ShowtimeEast/sd
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern" group-title="English",Showtime 2 Eastern
+https://tvpass.org/English/Showtime2East/sd
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast" group-title="English",SNY Sportsnet New York Comcast
+https://tvpass.org/English/sny-sportsnet-new-york-comcast/sd
+#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network" group-title="English",Space City Home Network
+https://tvpass.org/English/space-city-home-network/sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" group-title="English",Spectrum SportsNet LA
+https://tvpass.org/English/spectrum-sportsnet-la/sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers" group-title="English",Spectrum Sportsnet Lakers
+https://tvpass.org/English/spectrum-sportsnet/sd
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East)" group-title="English",Sportsnet (East)
+https://tvpass.org/English/sportsnet-east/sd
+#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360" group-title="English",Sportsnet 360
+https://tvpass.org/English/sportsnet-360/sd
+#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One" group-title="English",Sportsnet One
+https://tvpass.org/English/sportsnet-one/sd
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario" group-title="English",Sportsnet Ontario
+https://tvpass.org/English/sportsnet-ontario/sd
+#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific" group-title="English",Sportsnet Pacific
+https://tvpass.org/English/sportsnet-pacific/sd
+#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh" group-title="English",Sportsnet Pittsburgh
+https://tvpass.org/English/sportsnet-pittsburgh/sd
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West" group-title="English",Sportsnet West
+https://tvpass.org/English/sportsnet-west/sd
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern" group-title="English",Starz Eastern
+https://tvpass.org/English/StarzEast/sd
+#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East" group-title="English",SundanceTV USA East
+https://tvpass.org/English/SundanceTVEast/sd
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed" group-title="English",Syfy Eastern Feed
+https://tvpass.org/English/SyfyEast/sd
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East" group-title="English",TBS East
+https://tvpass.org/English/TBSEast/sd
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern" group-title="English",TeenNick Eastern
+https://tvpass.org/English/TeenNickEast/sd
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed" group-title="English",Telemundo Eastern Feed
+https://tvpass.org/English/TelemundoEast/sd
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel" group-title="English",The Cooking Channel
+https://tvpass.org/English/CookingChannel/sd
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel" group-title="English",The Tennis Channel
+https://tvpass.org/English/TennisChannel/sd
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel" group-title="English",The Weather Channel
+https://tvpass.org/English/TheWeatherChannel/sd
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" group-title="English",TLC USA Eastern
+https://tvpass.org/English/TLCEast/sd
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed" group-title="English",TMC (US) Eastern Feed
+https://tvpass.org/English/TheMovieChannelEast/sd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" group-title="English",TNT Eastern Feed
+https://tvpass.org/English/TNTEast/sd
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East" group-title="English",Travel US East
+https://tvpass.org/English/TravelChannelEast/sd
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern" group-title="English",truTV USA Eastern
+https://tvpass.org/English/truTVEast/sd
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" group-title="English",TSN1
+https://tvpass.org/English/tsn1/sd
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" group-title="English",TSN2
+https://tvpass.org/English/tsn2/sd
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" group-title="English",TSN3
+https://tvpass.org/English/tsn3/sd
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" group-title="English",TSN4
+https://tvpass.org/English/tsn4/sd
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" group-title="English",TSN5
+https://tvpass.org/English/tsn5/sd
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA" group-title="English",Turner Classic Movies USA
+https://tvpass.org/English/TCMEast/sd
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" group-title="English",TV Land Eastern
+https://tvpass.org/English/tv-land-eastern/sd
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One" group-title="English",TV One
+https://tvpass.org/English/TVOne/sd
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids" group-title="English",Universal Kids
+https://tvpass.org/English/UniversalKidsEast/sd
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed" group-title="English",Univision Eastern Feed
+https://tvpass.org/English/UnivisionEast/sd
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed" group-title="English",USA Network East Feed
+https://tvpass.org/English/USANetworkEast/sd
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" group-title="English",VH1 Eastern Feed
+https://tvpass.org/English/VH1East/sd
+#EXTINF:-1 tvg-id="vice" tvg-name="VICE" group-title="English",VICE
+https://tvpass.org/English/VICETV/sd
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern" group-title="English",WE (Women's Entertainment) Eastern
+https://tvpass.org/English/WeTVEast/sd
+#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION)" group-title="English",WPIX New York (SUPERSTATION)
+https://tvpass.org/English/WPIX/sd
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" group-title="English",Yes Network
+https://tvpass.org/English/yes-network/sd
+#EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
+https://tvpass.org/English/ESPN/sd
 
 
 
