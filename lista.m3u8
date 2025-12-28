@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJAzDKIAMui-W1fN32_zeBs0QOPsTxSbU4w&s" group-title="El Salvador",Canal 2
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeUAiK88vDwxLAQg8oe7ZJBWnudrGPY2CGA&s" group-title="El Salvador",EL SALVADOR | CANAL 4
-http://plixi.live:80/mariodiaz/mac12345/8083
+http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912721115696500737/wVEWYAU6_400x400.jpg" group-title="El Salvador",EL SALVADOR | CANAL 6
 http://plixi.live:80/mariodiaz/mac12345/8084
@@ -677,4 +677,5 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
