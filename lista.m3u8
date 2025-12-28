@@ -28,6 +28,41 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 
 
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 15 Usulután (720p) [Not 24/7]
+https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 4 (1080p)
+http://45.5.116.178:8000/play/a00g/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 4 (1080p) [Not 24/7]
+http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 4 (480p)
+http://45.5.116.178:8000/play/a03p/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 4 (480p)
+http://204.157.251.250:8000/play/a06a/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",TVM El Salvador
+http://201.247.102.189/tmp_hls/stream/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 6 (480p) [Not 24/7]
+https://telecorporacion.cdn.vustreams.com/live/0ee29634-11fb-4b59-8987-996d5663dbd8/live.isml/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 65 (1080p) [Not 24/7]
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Megavisión Canal 19 (720p)
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Megavisión Canal 21 (720p)
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8?checkedby:iptvcat.com
+
+
+
+
+
+
 
 
 
@@ -727,6 +762,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
