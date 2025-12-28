@@ -9,7 +9,7 @@ http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912721115696500737/wVEWYAU6_400x400.jpg" group-title="El Salvador",EL SALVADOR | CANAL 6
 http://plixi.live:80/mariodiaz/mac12345/8084
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 10
+#EXTINF:-1 tvg-logo="https://www.tvenvivo.com.ar/wp-content/uploads/2023/10/canal-10-el-salvador.png" group-title="El Salvador",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
@@ -727,6 +727,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
