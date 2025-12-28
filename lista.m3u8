@@ -44,6 +44,52 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 #EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",LI
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Edmonton (CBXT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Manitoba (CBWT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Montréal (CBMT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC New Brunswick (CBAT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Newfoundland and Labrador (CBNT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC News Explore [Geo-blocked] (720p)
+https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC News Network 
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC North 
+https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Nova Scotia 
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Ottawa (CBOT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Prince Edward Island (CBCT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Saskatchewan (CBKT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Toronto (CBLT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Vancouver (CBUT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Windsor (CBET-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8?checkedby:iptvcat.com
+
+
 ##############################################################################    MEXICO  ###########################################################################################################
 
 
@@ -681,6 +727,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
