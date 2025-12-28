@@ -41,8 +41,8 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
-#EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",LIST
-https://list.iptvcat.com/my_list/s/853d5417e396a31cb3707be4d471f6bc.m3u8
+#EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",LI
+https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8?checkedby:iptvcat.com
 
 ##############################################################################    MEXICO  ###########################################################################################################
 
@@ -681,6 +681,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
