@@ -17,7 +17,7 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fCADRn91MtE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ-9FME22KNP433SNJTd8p1dmr2Q" group-title="El Salvador",Canal 21 Megavisión
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZZepSS1HEbA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDAgOyh_MA8=&rs=AOn4CLB6kOo68CKxnU_0nB7ieM2qyQ0ypg" group-title="El Salvador", 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZZepSS1HEbA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDAgOyh_MA8=&rs=AOn4CLB6kOo68CKxnU_0nB7ieM2qyQ0ypg" group-title="El Salvador",Asamblea 
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 
 
@@ -93,6 +93,35 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master
 
 #EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Windsor 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BB;CA;MX;PA;US" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="Canada",CCTV-4 America (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Canada",CA | Global News,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",Global News BC
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf063257170000724590c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dbc1416e-8c70-4097-a89c-835beacc1b11&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="Canada",CA | Global Toronto,Global Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Canada",CA | Global British Columbia,Global British Columbia
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/JJlPVVr.jpg" group-title="Canada",Global News Calgary (720p)
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",Global News Montreal
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfbd6ad95670007f567af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=69de338a-c867-4e6c-a701-385c6de43fb6&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",Global News Montreal
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfbd6ad95670007f567af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69de338a-c867-4e6c-a701-385c6de43fb6&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",Pluto TV Truly Canadian
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6479c171536e0c0008942590/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb434-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ad8a7d6-7a26-4a76-9aa3-84f10fac264d&serverSideAds=false&checkedby:iptvcat.com
+
+
 
 
 ##############################################################################    MEXICO  ###########################################################################################################
@@ -177,7 +206,63 @@ http://nocable.cc:8080/PHn1bv/649364/17870
 #EXTINF:-1 tvg-id="1.colombia.co" tvg-name="HISTORY CHANNEL" tvg-logo="http://xpaneltv.com:8080/images/3b2f81d117de35462176ffad2fd01f33.png" group-title="Estados Unidos",HISTORY CHANNEL
 https://fl1.moveonjoy.com/history_channel/index.m3u8
 
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",Yes News (720p)
+https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",ABC News Live
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",ABC News Live (720p)
+https://apollo.production-public.tubi.io/live/ac-abc-news.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",ABC News Live 1 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",ABC News Live 10 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/C4w0eYC.png" group-title="Estados Unidos",America's Voice News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604&checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",CBS News Los Angeles
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=eae9bdc0-6180-4f5d-8ffa-b05719d60f76&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",CBS News New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb8dad98-4322-41fe-bb83-595fb6bb9006&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",CBS News Texas
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=870d3aac-da79-4239-a021-82bea2a622d2&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",ESPNews (720p)
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="Estados Unidos",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",BBC News North America
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",BET Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e4dfe90-0228-4bbb-b7cd-1e422a0e7cbb&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",BET Pluto TV 3
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77895fb3add2000735ac29/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=49d16c0f-92e3-496b-833f-1282e54f8c15&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="Estados Unidos",ESPNews (720p)
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",FOX 11 Los Angeles CA (KTTV) (720p)
+https://livetv-fa.tubi.video/kttv/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",FOX 32 Chicago IL (WFLD) (720p)
+https://livetv-fa.tubi.video/wfld/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Estados Unidos",ESPN U (720p)
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",ESPN Deportes (360p)
+https://e3.thetvapp.to/hls/espn-deportes/index.m3u8?checkedby:iptvcat.com
 
 
 
@@ -266,73 +351,8 @@ http://iptv.streamhispanatv.net:8080
  ##############################################################  HONDURAS  ################################################################ 
 
 
-
-
-#EXTINF:-1 tvg-name="Telesistema SD" tvg-logo="http://xpaneltv.com:8080/images/d895ed90bab5a86173ead3a829e26d10.png" group-title="Honduras",HONDURAS | Telesistema SD
-http://xpaneltv.com:8080/DaiSeg/987612345/290503
-
-#EXTINF:-1 tvg-name="Teleceiba SD" tvg-logo="http://xpaneltv.com:8080/images/30ae6d83ea95d17aadc960f2245f4e0e.png" group-title="Honduras",HONDURAS | Teleceiba SD
-http://xpaneltv.com:8080/DaiSeg/987612345/290504
-
-#EXTINF:-1 tvg-name="Telecadena HD" tvg-logo="http://xpaneltv.com:8080/images/63362161e077388669611ed5056266f2.png" group-title="Honduras",HONDURAS | Telecadena HD
-http://xpaneltv.com:8080/DaiSeg/987612345/290505
-
-#EXTINF:-1 tvg-name="Canal 5 HD" tvg-logo="http://xpaneltv.com:8080/images/764c72d7fe869ad616ebbda622a99718.jpg" group-title="Honduras",HONDURAS | CANAL 5 HD
-http://xpaneltv.com:8080/DaiSeg/987612345/290507
-
-#EXTINF:-1 tvg-name="Canal 6 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Canal6HN1983.png/revision/latest?cb=20180201210110" group-title="Honduras",HONDURAS | CANAL 6 HD
-http://xpaneltv.com:8080/DaiSeg/987612345/290508
-
-#EXTINF:-1 tvg-name="Teleprogreso" tvg-logo="http://xpaneltv.com:8080/images/244626b60ad36c52b96fb285cb3beb54.jpg" group-title="Honduras",HONDURAS | TELEPROGRESO
-http://xpaneltv.com:8080/DaiSeg/987612345/290511
-
-#EXTINF:-1 tvg-name="TDTV" tvg-logo="http://xpaneltv.com:8080/images/6ceae3e1589f9fa6396d632e5a546ea1.jpg" group-title="Honduras",HONDURAS | TDTV
-http://xpaneltv.com:8080/DaiSeg/987612345/290515
-
 #EXTINF:-1 tvg-name="Canal 11 HD" tvg-logo="http://xpaneltv.com:8080/images/dbf0923a865d3f0fe353b7e932ebaf54.png" group-title="Honduras",HONDURAS | Canal 11 HD
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8?did=b2601338749689627a5414d0
-
-#EXTINF:-1 tvg-name="Canal 5" tvg-logo="http://xpaneltv.com:8080/images/764c72d7fe869ad616ebbda622a99718.jpg" group-title="Honduras",HONDURAS | Canal 5
-http://xpaneltv.com:8080/DaiSeg/987612345/290517
-
-#EXTINF:-1 tvg-name="HCH" tvg-logo="http://xpaneltv.com:8080/images/38b9eb47127ad411c5a1c47fd47ee582.png" group-title="Honduras",HONDURAS | HCH
-http://xpaneltv.com:8080/DaiSeg/987612345/290518
-
-#EXTINF:-1 tvg-name="Suyapa" tvg-logo="http://xpaneltv.com:8080/images/4f07a98e7d2ca6a8e6f3b9c4a41bf88b.jpg" group-title="Honduras",HONDURAS | Suyapa
-http://xpaneltv.com:8080/DaiSeg/987612345/290520
-
-#EXTINF:-1 tvg-name="Telecadena SD" tvg-logo="http://xpaneltv.com:8080/images/63362161e077388669611ed5056266f2.png" group-title="Honduras",HONDURAS | TeleCadena SD
-http://xpaneltv.com:8080/DaiSeg/987612345/290521
-
-#EXTINF:-1 tvg-name="Teleceiba" tvg-logo="http://xpaneltv.com:8080/images/30ae6d83ea95d17aadc960f2245f4e0e.png" group-title="Honduras",HONDURAS | Teleceiba
-http://xpaneltv.com:8080/DaiSeg/987612345/290522
-
-#EXTINF:-1 tvg-name="Telesistema" tvg-logo="http://xpaneltv.com:8080/images/d895ed90bab5a86173ead3a829e26d10.png" group-title="Honduras",HONDURAS | TeleSistema
-http://xpaneltv.com:8080/DaiSeg/987612345/290523
-
-#EXTINF:-1 tvg-name="VTV Honduras" tvg-logo="http://xpaneltv.com:8080/images/876c0aee15d72eb6d8194b1135972569.png" group-title="Honduras",HONDURAS | VTV Honduras
-http://xpaneltv.com:8080/DaiSeg/987612345/290525
-
-#EXTINF:-1 tvg-name="HCH OPC 2" tvg-logo="http://xpaneltv.com:8080/images/38b9eb47127ad411c5a1c47fd47ee582.png" group-title="Honduras",HONDURAS | HCH OPC 2
-http://xpaneltv.com:8080/DaiSeg/987612345/290527
-
-#EXTINF:-1 tvg-name="Campus TV" tvg-logo="http://xpaneltv.com:8080/images/29e665dbd124edcd1aa1791d539aef48.png" group-title="Honduras",HONDURAS | Campus TV
-http://xpaneltv.com:8080/DaiSeg/987612345/290528
-
-#EXTINF:-1 tvg-name="Lenca TV" tvg-logo="https://lh3.googleusercontent.com/Pj0cw_MtiXOVbmPnOYWuxjRg_RdJIDU682YhYxqwUeFtVYX7QSn-lQgxDKBuJYQ9ajm7" group-title="Honduras",HONDURAS | Lenca TV
-http://xpaneltv.com:8080/DaiSeg/987612345/290529
-
-#EXTINF:-1 tvg-name="Ebenezer" tvg-logo="http://xpaneltv.com:8080/images/8c20846d58a94e456fcccdbdb52fd705.png" group-title="Honduras",HONDURAS | EBENEZER
-http://xpaneltv.com:8080/DaiSeg/987612345/290530
-
-#EXTINF:-1 tvg-name="Todo Deporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TDTV_logo_2022.png/200px-TDTV_logo_2022.png" group-title="Honduras",HONDURAS | TODO DEPORTE
-http://xpaneltv.com:8080/DaiSeg/987612345/290531
-
-#EXTINF:-1 tvg-name="Globo TV" tvg-logo="http://xpaneltv.com:8080/images/443430d13a9530f582f5cf459d9d55b0.png" group-title="Honduras",HONDURAS | Globo TV
-http://xpaneltv.com:8080/DaiSeg/987612345/290534
-
-#EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TVCdeportes2002.png/revision/latest?cb=20210513161944&path-prefix=es" group-title="Honduras",HONDURAS | TVC DEPORTES
-http://xpaneltv.com:8080/DaiSeg/987612345/290535
 
 
 
@@ -732,6 +752,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
