@@ -1,13 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJAzDKIAMui-W1fN32_zeBs0QOPsTxSbU4w&s" group-title="El Salvador",Canal 2
-http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeUAiK88vDwxLAQg8oe7ZJBWnudrGPY2CGA&s" group-title="El Salvador",EL SALVADOR | CANAL 4
-http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912721115696500737/wVEWYAU6_400x400.jpg" group-title="El Salvador",EL SALVADOR | CANAL 6
-http://plixi.live:80/mariodiaz/mac12345/8084
+http://45.5.116.178:8000/play/a03p/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.tvenvivo.com.ar/wp-content/uploads/2023/10/canal-10-el-salvador.png" group-title="El Salvador",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
@@ -20,43 +16,6 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fCADRn91MtE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ-9FME22KNP433SNJTd8p1dmr2Q" group-title="El Salvador",Canal 21 Megavisión
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 15 Usulután (720p) [Not 24/7]
-https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 4 (1080p)
-http://45.5.116.178:8000/play/a00g/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 4 (1080p) [Not 24/7]
-http://tmp-sv3.teleon.live:8080/play/a011/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 4 (480p)
-http://45.5.116.178:8000/play/a03p/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 4 (480p)
-http://204.157.251.250:8000/play/a06a/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",TVM El Salvador
-http://201.247.102.189/tmp_hls/stream/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 6 (480p) [Not 24/7]
-https://telecorporacion.cdn.vustreams.com/live/0ee29634-11fb-4b59-8987-996d5663dbd8/live.isml/live.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Canal 65 (1080p) [Not 24/7]
-https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Megavisión Canal 19 (720p)
-https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="SV" tvg-logo="" group-title="El Salvador",Megavisión Canal 21 (720p)
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8?checkedby:iptvcat.com
 
 
 
@@ -214,7 +173,7 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 http://nocable.cc:8080/PHn1bv/649364/17870
 
 #EXTINF:-1 tvg-id="1.colombia.co" tvg-name="HISTORY CHANNEL" tvg-logo="http://xpaneltv.com:8080/images/3b2f81d117de35462176ffad2fd01f33.png" group-title="Estados Unidos",HISTORY CHANNEL
-http://xpaneltv.com:8080/DaiSeg/987612345/59647
+https://fl1.moveonjoy.com/history_channel/index.m3u8
 
 
 
@@ -771,6 +730,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
