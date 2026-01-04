@@ -17,6 +17,8 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fCADRn91MtE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ-9FME22KNP433SNJTd8p1dmr2Q" group-title="El Salvador",Canal 21 Megavisión
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZZepSS1HEbA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDAgOyh_MA8=&rs=AOn4CLB6kOo68CKxnU_0nB7ieM2qyQ0ypg" group-title="El Salvador", 
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 
 
 
@@ -730,6 +732,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
