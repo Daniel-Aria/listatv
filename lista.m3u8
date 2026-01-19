@@ -1,23 +1,30 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-2-nacional_m.png" group-title="El Salvador",EL SALVADOR | CANAL 2
+https://zonamovie.pro:443/play/lfhtP1LpSP6s6JBFYI9bMyT0aNXBNPrb2MzU6Ex8dVTS7xTe9_m8hOtqlJUyBKis/ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeUAiK88vDwxLAQg8oe7ZJBWnudrGPY2CGA&s" group-title="El Salvador",EL SALVADOR | CANAL 4
-http://45.5.116.178:8000/play/a03p/index.m3u8?checkedby:iptvcat.com
+https://zonamovie.pro:443/play/lfhtP1LpSP6s6JBFYI9bMyT0aNXBNPrb2MzU6Ex8dVRHbHiUFdjpfukh7JV8CvLv/ts
 
-#EXTINF:-1 tvg-logo="https://www.tvenvivo.com.ar/wp-content/uploads/2023/10/canal-10-el-salvador.png" group-title="El Salvador",Canal 10
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png" group-title="El Salvador",EL SALVADOR | CANAL 6
+https://zonamovie.pro:443/play/lfhtP1LpSP6s6JBFYI9bMyT0aNXBNPrb2MzU6Ex8dVQiFtXCb-EFUNO38Z2AcQxp/ts
+
+#EXTINF:-1 tvg-logo="https://www.tvenvivo.com.ar/wp-content/uploads/2023/10/canal-10-el-salvador.png" group-title="El Salvador",EL SALVADOR | Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",Canal 12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador",EL SALVADOR | Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Canal_19_El_Salvador.png/revision/latest?cb=20210621012348&path-prefix=es" group-title="El Salvador",Canal 19 Megavisión
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Canal_19_El_Salvador.png/revision/latest?cb=20210621012348&path-prefix=es" group-title="El Salvador",EL SALVADOR | Canal 19 Megavisión
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fCADRn91MtE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ-9FME22KNP433SNJTd8p1dmr2Q" group-title="El Salvador",Canal 21 Megavisión
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fCADRn91MtE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ-9FME22KNP433SNJTd8p1dmr2Q" group-title="El Salvador",EL SALVADOR | Canal 21 Megavisión
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZZepSS1HEbA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDAgOyh_MA8=&rs=AOn4CLB6kOo68CKxnU_0nB7ieM2qyQ0ypg" group-title="El Salvador",Asamblea 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmejgLZIT-OaHR07mUdm1UayeEnzYlC36P9Q&s" group-title="El Salvador",EL SALVADOR | TVO Canal 23
+https://zonamovie.pro:443/play/lfhtP1LpSP6s6JBFYI9bMyT0aNXBNPrb2MzU6Ex8dVRMV_840zOV3p2CltwMCgyt/ts
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZZepSS1HEbA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDAgOyh_MA8=&rs=AOn4CLB6kOo68CKxnU_0nB7ieM2qyQ0ypg" group-title="El Salvador",EL SALVADOR | Asamblea 
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 
 
@@ -752,6 +759,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
