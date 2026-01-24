@@ -44,6 +44,9 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
+#EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="Canada",CP 24
+http://tv.zapping.life:8080/fr4nc8a73j/bff150b1c66c/7959
+
 #EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Calgary
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8?checkedby:iptvcat.com
 
@@ -759,6 +762,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
