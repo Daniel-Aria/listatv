@@ -53,6 +53,12 @@ https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_o
 #EXTINF:-1 tvg-name="CTV Ottawa" tvg-logo="https://images.seeklogo.com/logo-png/22/1/ctv-logo-png_seeklogo-227855.png" group-title="Canada",ctv Ottawa
 http://tv.diablotv.net:8080/BVid2024/wcKyCEZKmN/45834
 
+#EXTINF:-1 tvg-id="" tvg-name="CAN-CNN  HD (L)" tvg-logo="http://live.detodotvplay.com:8080/images/9aecccf3b71b078328364882ab2820a1.png" group-title="Canada", CNN
+http://tv.zapping.life:8080/fr4nc8a73j/bff150b1c66c/7964
+
+#EXTINF:-1 tvg-id="" tvg-name="CAN-YES Network (M)(720)" tvg-logo="" group-title="Canada",CAN-YES 
+http://tv.zapping.life:8080/fr4nc8a73j/bff150b1c66c/45873
+
 #EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Edmonton 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8?checkedby:iptvcat.com
 
@@ -762,6 +768,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
