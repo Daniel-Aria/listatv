@@ -22,10 +22,8 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmejgLZIT-OaHR07mUdm1UayeEnzYlC36P9Q&s" group-title="El Salvador",EL SALVADOR | TVO Canal 23
-https://zonamovie.pro:443/play/lfhtP1LpSP6s6JBFYI9bMyT0aNXBNPrb2MzU6Ex8dVRMV_840zOV3p2CltwMCgyt/ts
+https://drive.google.com/uc?export=download&id=1Sh2dgSYbMQGG_FHvAYVElmkVowxpB5hA
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZZepSS1HEbA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDAgOyh_MA8=&rs=AOn4CLB6kOo68CKxnU_0nB7ieM2qyQ0ypg" group-title="El Salvador",EL SALVADOR | Asamblea 
-https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 
 
 
@@ -768,6 +766,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
