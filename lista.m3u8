@@ -21,9 +21,6 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fCADRn91MtE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ-9FME22KNP433SNJTd8p1dmr2Q" group-title="El Salvador",EL SALVADOR | Canal 21 Megavisión
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmejgLZIT-OaHR07mUdm1UayeEnzYlC36P9Q&s" group-title="El Salvador",EL SALVADOR | TVO Canal 23
-https://www.dropbox.com/scl/fi/nsobtz2r1xm56ix6lakce/WLfv5fgucHzLDTR3D6QejyQRsHZk2VC1PzkInT-25X1kWaxdLi69azvqoS7S10qdLMBS_sItdsfOBZ1Z33eEji3_8l5g8f73PiUK8NeTi6xgNU7bkKJ2dfl_7DGQWcHk1u7wqsIF6Dq600i7Ycgoadu7_dMbVMsXBqonr9k85tuxdd9kmK1K5bxBlOZgVJ3fFdQf2PZz1i3YzodvTS6vRh52Ea?rlkey=l025uv07wemqzbnzvte887bfj&st=uez3lnu2&raw=1
-
 
 
 
@@ -48,9 +45,6 @@ http://tv.zapping.life:8080/fr4nc8a73j/bff150b1c66c/7959
 #EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Calgary
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-name="CTV Ottawa" tvg-logo="https://images.seeklogo.com/logo-png/22/1/ctv-logo-png_seeklogo-227855.png" group-title="Canada",ctv Ottawa
-http://tv.diablotv.net:8080/BVid2024/wcKyCEZKmN/45834
-
 #EXTINF:-1 tvg-id="" tvg-name="CAN-CNN  HD (L)" tvg-logo="http://live.detodotvplay.com:8080/images/9aecccf3b71b078328364882ab2820a1.png" group-title="Canada", CNN
 http://tv.zapping.life:8080/fr4nc8a73j/bff150b1c66c/7964
 
@@ -60,11 +54,6 @@ http://tv.zapping.life:8080/fr4nc8a73j/bff150b1c66c/45873
 #EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Edmonton 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-name="CTV Ottawa" tvg-logo="https://images.seeklogo.com/logo-png/22/1/ctv-logo-png_seeklogo-227855.png" group-title="Canada",ctv
-http://tv.diablotv.net:8080/BVid2024/wcKyCEZKmN/45836
-
-#EXTINF:-1 tvg-name="CTV Ottawa" tvg-logo="https://images.seeklogo.com/logo-png/22/1/ctv-logo-png_seeklogo-227855.png" group-title="Canada",ctv Vancouver
-http://tv.diablotv.net:8080/BVid2024/wcKyCEZKmN/45837
 
 #EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Manitoba 
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8?checkedby:iptvcat.com
@@ -766,6 +755,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
