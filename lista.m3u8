@@ -357,6 +357,8 @@ http://iptv.streamhispanatv.net:8080
 #EXTINF:-1 tvg-name="Canal 11 HD" tvg-logo="http://xpaneltv.com:8080/images/dbf0923a865d3f0fe353b7e932ebaf54.png" group-title="Honduras",HONDURAS | Canal 11 HD
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8?did=b2601338749689627a5414d0
 
+#EXTINF:-1 tvg-name="HCH" group-title="Honduras",HONDURAS | HCH
+https://live.streamhch.com/live/streams/hch1.m3u8
 
 
 #EXTINF:0 tvg-country="HN" tvg-logo="" group-title="Honduras",45 TV (720p)
@@ -871,6 +873,7 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)" group-title="NCAAF",California Golden Bears @ Hawaii Rainbow Warriors (12/24 8:00 PM ET)
 https://tvpass.org/live/ESPN/sd
+
 
 
 
