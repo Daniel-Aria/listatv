@@ -23,6 +23,9 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fCADRn91MtE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ-9FME22KNP433SNJTd8p1dmr2Q" group-title="El Salvador", EL SALVADOR | Canal 21 Megavisión
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiPeGwPbXiVmqNcuvDRL-UEIEcDn7qTEb3g&s" group-title="El Salvador", EL SALVADOR | CANAL PRUEBA
+http://198.23.190.3:30822/live/cyx_6800191725964765464647286.m3u8
+
 
 
 
