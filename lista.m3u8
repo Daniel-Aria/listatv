@@ -23,9 +23,18 @@ https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fCADRn91MtE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ-9FME22KNP433SNJTd8p1dmr2Q" group-title="El Salvador", EL SALVADOR | Canal 21 Megavisión
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiPeGwPbXiVmqNcuvDRL-UEIEcDn7qTEb3g&s" group-title="El Salvador", EL SALVADOR | CANAL PRUEBA
+#EXTINF:-1 tvg-name="Canal IPTV" group-title="El Salvador", Canal IPTV
+#EXTVLCOPT:http-user-agent=Ranger/4.9.4-17294ac0
+#EXTVLCOPT:http-header=Host: 198.23.190.3:30822
+#EXTVLCOPT:http-header=Connection: Keep-Alive
+#EXTVLCOPT:http-header=App: com.android.msandroid
+#EXTVLCOPT:http-header=App-Version: 49902
+#EXTVLCOPT:http-header=Pragma: akamai-x-cache-on
+#EXTVLCOPT:http-header=Ranger-Id: 45FBHwckKkHiJ-dhSFpaLKWu4TRv93kC3kR
+#EXTVLCOPT:http-header=X-Buffer: 22739999999
+#EXTVLCOPT:http-header=Content-Auth: /live/?user_id=892345564&trans_id=jVYnntIVU7iB_OBzkT4WYo64&app_id=com.android.msandroid&host=198.23.190.3:30822&app_ver=49902&client_ip=72.139.202.248&expired=17787971560&auth_id=892345564_com.android.msandroid__0&dev_id=c70ced3f72394876761f40f5258befa4&tag=free&sign_ver=1&token=0f79cdb14188a6d48a55fd25fc1aef67&sign2_method=sign_o3&instance=0&start_moment=1778777266152&sign2=28a1ccde4a1ef01c9a4e2a27d78f2a11
+#EXTVLCOPT:http-header=Content-License: app_id=com.android.msandroid&tag=free&scheme=md5-01&media_code=cyx_6800191725964765464647286&expired=1779373942&token=2D235E0568EE563A6F77039758E39DDD
 http://198.23.190.3:30822/live/cyx_6800191725964765464647286.m3u8
-
 
 
 
