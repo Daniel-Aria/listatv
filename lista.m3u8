@@ -2,40 +2,19 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiPeGwPbXiVmqNcuvDRL-UEIEcDn7qTEb3g&s" group-title="El Salvador", EL SALVADOR | CANAL 23
 https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-2-nacional_m.png" group-title="El Salvador", EL SALVADOR | CANAL 2
-https://zonamovie.pro:443/play/lfhtP1LpSP6s6JBFYI9bMyT0aNXBNPrb2MzU6Ex8dVTS7xTe9_m8hOtqlJUyBKis/ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeUAiK88vDwxLAQg8oe7ZJBWnudrGPY2CGA&s" group-title="El Salvador", EL SALVADOR | CANAL 4
-https://zonamovie.pro:443/play/lfhtP1LpSP6s6JBFYI9bMyT0aNXBNPrb2MzU6Ex8dVRHbHiUFdjpfukh7JV8CvLv/ts
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador-en-vivo-Online.png" group-title="El Salvador", EL SALVADOR | CANAL 6
-https://zonamovie.pro:443/play/lfhtP1LpSP6s6JBFYI9bMyT0aNXBNPrb2MzU6Ex8dVQiFtXCb-EFUNO38Z2AcQxp/ts
+
 
 #EXTINF:-1 tvg-logo="https://www.tvenvivo.com.ar/wp-content/uploads/2023/10/canal-10-el-salvador.png" group-title="El Salvador", EL SALVADOR | Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="El Salvador", EL SALVADOR | Canal 12
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Canal_19_El_Salvador.png/revision/latest?cb=20210621012348&path-prefix=es" group-title="El Salvador", EL SALVADOR | Canal 19 Megavisión
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fCADRn91MtE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQ-9FME22KNP433SNJTd8p1dmr2Q" group-title="El Salvador", EL SALVADOR | Canal 21 Megavisión
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-
-#EXTINF:-1 tvg-name="Canal IPTV" group-title="El Salvador", Canal IPTV
-#EXTVLCOPT:http-user-agent=Ranger/4.9.4-17294ac0
-#EXTVLCOPT:http-header=Host: 198.23.190.3:30822
-#EXTVLCOPT:http-header=Connection: Keep-Alive
-#EXTVLCOPT:http-header=App: com.android.msandroid
-#EXTVLCOPT:http-header=App-Version: 49902
-#EXTVLCOPT:http-header=Pragma: akamai-x-cache-on
-#EXTVLCOPT:http-header=Ranger-Id: 45FBHwckKkHiJ-dhSFpaLKWu4TRv93kC3kR
-#EXTVLCOPT:http-header=X-Buffer: 22739999999
-#EXTVLCOPT:http-header=Content-Auth: /live/?user_id=892345564&trans_id=jVYnntIVU7iB_OBzkT4WYo64&app_id=com.android.msandroid&host=198.23.190.3:30822&app_ver=49902&client_ip=72.139.202.248&expired=17787971560&auth_id=892345564_com.android.msandroid__0&dev_id=c70ced3f72394876761f40f5258befa4&tag=free&sign_ver=1&token=0f79cdb14188a6d48a55fd25fc1aef67&sign2_method=sign_o3&instance=0&start_moment=1778777266152&sign2=28a1ccde4a1ef01c9a4e2a27d78f2a11
-#EXTVLCOPT:http-header=Content-License: app_id=com.android.msandroid&tag=free&scheme=md5-01&media_code=cyx_6800191725964765464647286&expired=1779373942&token=2D235E0568EE563A6F77039758E39DDD
-http://198.23.190.3:30822/live/cyx_6800191725964765464647286.m3u8
-
 
 
 
@@ -50,12 +29,6 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Canada",CityNews Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 
-#EXTINF:-1 tvg-name=" group-title="Canada",MLB
-https://lb3.strmd.top/secure/CPqIriuucjvPcHSzBxvrrmjQIlOXlTIo/delta/stream/live_mlb_blue-jays-athletics-live-streaming-1197929871/1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg" group-title="Canada",CP 24
-http://tv.zapping.life:8080/fr4nc8a73j/bff150b1c66c/7959
 
 #EXTINF:-1 tvg-name="CityNews Toronto" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Calgary
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8?checkedby:iptvcat.com
@@ -63,54 +36,8 @@ https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_o
 #EXTINF:-1 tvg-id="" tvg-name="CAN-CNN  HD (L)" tvg-logo="http://live.detodotvplay.com:8080/images/9aecccf3b71b078328364882ab2820a1.png" group-title="Canada", CNN
 http://tv.zapping.life:8080/fr4nc8a73j/bff150b1c66c/7964
 
-#EXTINF:-1 tvg-id="" tvg-name="CAN-YES Network (M)(720)" tvg-logo="" group-title="Canada",CAN-YES 
-http://tv.zapping.life:8080/fr4nc8a73j/bff150b1c66c/45873
-
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Edmonton 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Manitoba 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Montréal 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC New Brunswick 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Newfoundland and Labrador 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC News Explore
-https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC News Network 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC North 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",CBC Nova Scotia 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Ottawa 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Prince Edward Island 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Saskatchewan 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Toronto
-https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Vancouver 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="https://site-cbc.radio-canada.ca/media/7968/logos-vintages-1920x1080-auj.jpg" group-title="Canada",CBC Windsor 
-https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="BB;CA;MX;PA;US" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="Canada",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8?checkedby:iptvcat.com
@@ -118,8 +45,6 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8?checkedby:ip
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Canada",CA | Global News,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",Global News BC
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf063257170000724590c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dbc1416e-8c70-4097-a89c-835beacc1b11&checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="Canada",CA | Global Toronto,Global Toronto
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:iptvcat.com
@@ -130,11 +55,6 @@ https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737d
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/JJlPVVr.jpg" group-title="Canada",Global News Calgary (720p)
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",Global News Montreal
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfbd6ad95670007f567af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=69de338a-c867-4e6c-a701-385c6de43fb6&checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",Global News Montreal
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfbd6ad95670007f567af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69de338a-c867-4e6c-a701-385c6de43fb6&serverSideAds=false&checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Canada",Pluto TV Truly Canadian
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6479c171536e0c0008942590/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb434-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ad8a7d6-7a26-4a76-9aa3-84f10fac264d&serverSideAds=false&checkedby:iptvcat.com
@@ -149,8 +69,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Mexico",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL" tvg-logo="http://xpaneltv.com:8080/images/16dc4e6f9dca026bb151ffcc9f6c3ce5.jpg" group-title="Mexico",CNN ESPAÑOL
-http://xpaneltv.com:8080/DaiSeg/987612345/52184
+
 
 #EXTINF:-1 tvg-id="UMTV.mx" tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="Mexico",UMTV
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
@@ -212,8 +131,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8?token=Zalogi
 
 
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CNN_International_logo.svg" group-title="Estados Unidos",US CNN
-http://nocable.cc:8080/PHn1bv/649364/1817
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Estados Unidos",  TELEMUNDO Florida
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
@@ -255,8 +173,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",ESPNews (720p)
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="Estados Unidos",CNN USA
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
+
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Estados Unidos",BBC News North America
 https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8?checkedby:iptvcat.com
